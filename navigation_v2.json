@@ -1,0 +1,461 @@
+{
+    "version": 2,
+    "number_of_languages": 2,
+    "number_of_instructions": 37,
+    "languages": [
+        {
+            "name": "en",
+            "instructions": [
+                {
+                    "index": 1000,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Locating You"
+                },
+                {
+                    "index": 1001,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Start Nav"
+                },
+                {
+                    "index": 1002,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "You have Arrived"
+                },
+                {
+                    "index": 1003,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Calculating Route"
+                },
+                {
+                    "index": 1004,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Unable to Calculate Route"
+                },
+                {
+                    "index": 1005,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Off-Route Warning"
+                },
+                {
+                    "index": 1006,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Off-Route, Calculating new route"
+                },
+                {
+                    "index": 1010,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Re-starting Navigation"
+                },
+                {
+                    "index": 1,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Proceed to Start of Route"
+                },
+                {
+                    "index": 2,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Proceed to Start of Route"
+                },
+                {
+                    "index": 3,
+                    "icon": 2,
+                    "vars": 0,
+                    "text": "Proceed to Nearest Entrance"
+                },
+                {
+                    "index": 4,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Proceed to Nearest Entrance"
+                },
+                {
+                    "index": 5,
+                    "icon": 9,
+                    "vars": 1,
+                    "text": "Take Elevator to the ${NEXT_ELEV}"
+                },
+                {
+                    "index": 19,
+                    "icon": 9,
+                    "vars": 1,
+                    "text": "Take Elevator down to ${NEXT_ELEV}"
+                },
+                {
+                    "index": 20,
+                    "icon": 9,
+                    "vars": 1,
+                    "text": "Take Elevator up to ${NEXT_ELEV}"
+                },
+                {
+                    "index": 6,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Exit Elevator"
+                },
+                {
+                    "index": 7,
+                    "icon": 10,
+                    "vars": 2,
+                    "text": "Take Stairs to the ${NEXT_STAIRS}"
+                },
+                {
+                    "index": 21,
+                    "icon": 10,
+                    "vars": 2,
+                    "text": "Take Stairs down to ${NEXT_STAIRS}"
+                },
+                {
+                    "index": 22,
+                    "icon": 10,
+                    "vars": 2,
+                    "text": "Take Stairs up to ${NEXT_STAIRS}"
+                },
+                {
+                    "index": 8,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Exit Stairwell"
+                },
+                {
+                    "index": 9,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking"
+                },
+                {
+                    "index": 10,
+                    "icon": 8,
+                    "vars": 4,
+                    "text": "Continue to ${NEXT_FLOOR}"
+                },
+                {
+                    "index": 11,
+                    "icon": 8,
+                    "vars": 4,
+                    "text": "Continue to ${NEXT_FLOOR}"
+                },
+                {
+                    "index": 12,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking"
+                },
+                {
+                    "index": 13,
+                    "icon": 4,
+                    "vars": 0,
+                    "text": "Left Turn Ahead"
+                },
+                {
+                    "index": 14,
+                    "icon": 5,
+                    "vars": 0,
+                    "text": "Continue Walking"
+                },
+                {
+                    "index": 15,
+                    "icon": 6,
+                    "vars": 0,
+                    "text": "Right Turn Ahead"
+                },
+                {
+                    "index": 16,
+                    "icon": 7,
+                    "vars": 0,
+                    "text": "Continue Walking"
+                },
+                {
+                    "index": 17,
+                    "icon": 11,
+                    "vars": 0,
+                    "text": "Turn Around"
+                },
+                {
+                    "index": 23,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue to Parking Spot"
+                },
+                {
+                    "index": 24,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "You have arrived at your Parking Spot"
+                },
+                {
+                    "index": 18,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "You have Arrived"
+                },
+                {
+                    "index": 25,
+                    "icon": 2,
+                    "vars": 0,
+                    "text": "Proceed to Nearest Entrance"
+                },
+                {
+                    "index": 26,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Continue to Parking Level"
+                },
+                {
+                    "index": 27,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "You have Arrived at your Parking Level"
+                },
+                {
+                    "index": 28,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking Outside"
+                },
+                {
+                    "index": 29,
+                    "icon": 8,
+                    "vars": 8,
+                    "text": "Continue Walking to ${NEXT_BLDG}"
+                }
+            ]
+        },
+        {
+            "name": "es",
+            "instructions": [
+                {
+                    "index": 1000,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Localizándote"
+                },
+                {
+                    "index": 1001,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Comenzar navegación"
+                },
+                {
+                    "index": 1002,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Ha llegado"
+                },
+                {
+                    "index": 1003,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Calculando ruta"
+                },
+                {
+                    "index": 1004,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Imposible calcular ruta"
+                },
+                {
+                    "index": 1005,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Advertencia, fuera de ruta"
+                },
+                {
+                    "index": 1006,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Fuera de ruta, recalculando"
+                },
+                {
+                    "index": 1010,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Recomenzar navegación"
+                },
+                {
+                    "index": 1,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Ir al comienzo de la ruta"
+                },
+                {
+                    "index": 2,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Ir al comienzo de la ruta"
+                },
+                {
+                    "index": 3,
+                    "icon": 2,
+                    "vars": 0,
+                    "text": "Ir a la entrada mas cercana"
+                },
+                {
+                    "index": 4,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Ir a la entrada mas cercana"
+                },
+                {
+                    "index": 5,
+                    "icon": 9,
+                    "vars": 1,
+                    "text": "Tome el ascensor al nivel ${NEXT_ELEV}"
+                },
+                {
+                    "index": 19,
+                    "icon": 9,
+                    "vars": 1,
+                    "text": "Baje por el ascensor al nivel ${NEXT_ELEV}"
+                },
+                {
+                    "index": 20,
+                    "icon": 9,
+                    "vars": 1,
+                    "text": "Suba por el ascensor al nivel ${NEXT_ELEV}"
+                },
+                {
+                    "index": 6,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Salga del ascensor"
+                },
+                {
+                    "index": 7,
+                    "icon": 10,
+                    "vars": 2,
+                    "text": "Tome las escaleras al nivel ${NEXT_STAIRS}"
+                },
+                {
+                    "index": 21,
+                    "icon": 10,
+                    "vars": 2,
+                    "text": "Baje por las escaleras al nivel ${NEXT_STAIRS}"
+                },
+                {
+                    "index": 22,
+                    "icon": 10,
+                    "vars": 2,
+                    "text": "Suba por las escaleras al nivel ${NEXT_STAIRS}"
+                },
+                {
+                    "index": 8,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Salga de la escalera"
+                },
+                {
+                    "index": 9,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando"
+                },
+                {
+                    "index": 10,
+                    "icon": 8,
+                    "vars": 4,
+                    "text": "Continuar hacia ${NEXT_FLOOR}"
+                },
+                {
+                    "index": 11,
+                    "icon": 8,
+                    "vars": 4,
+                    "text": "Continuar hacia ${NEXT_FLOOR}"
+                },
+                {
+                    "index": 12,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando"
+                },
+                {
+                    "index": 13,
+                    "icon": 4,
+                    "vars": 0,
+                    "text": "Giro a la Izquierda delante"
+                },
+                {
+                    "index": 14,
+                    "icon": 5,
+                    "vars": 0,
+                    "text": "Continuar caminando"
+                },
+                {
+                    "index": 15,
+                    "icon": 6,
+                    "vars": 0,
+                    "text": "Giro a la Derecha delante"
+                },
+                {
+                    "index": 16,
+                    "icon": 7,
+                    "vars": 0,
+                    "text": "Continuar caminando"
+                },
+                {
+                    "index": 17,
+                    "icon": 11,
+                    "vars": 0,
+                    "text": "De la vuelta"
+                },
+                {
+                    "index": 23,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar hacia su lugar de estacionamiento"
+                },
+                {
+                    "index": 24,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Ha llegado hacia su lugar de estacionamiento"
+                },
+                {
+                    "index": 18,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Ha llegado"
+                },
+                {
+                    "index": 25,
+                    "icon": 2,
+                    "vars": 0,
+                    "text": "Ir a la entrada mas cercana"
+                },
+                {
+                    "index": 26,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Continue hacia el nivel del estacionamiento"
+                },
+                {
+                    "index": 27,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Has llegado a tu lugar de estacionamiento"
+                },
+                {
+                    "index": 28,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando afuera"
+                },
+                {
+                    "index": 29,
+                    "icon": 8,
+                    "vars": 8,
+                    "text": "Continuar caminando hacia ${NEXT_BLDG}"
+                }
+            ]
+        }
+    ]
+}
