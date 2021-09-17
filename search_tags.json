@@ -1,1 +1,3523 @@
-[{"gozio_id": "15587", "clinic_name": "Allergy, Immunology and Pulmonary Clinic", "clinic_id": "13", "location_id": "allergy, immunology, asthma, lung, embolism, Professional Office Building 2, 5939 Harry Hines, POB2, HQ, west, pulmonology, lungs, respiratory, breathing", "tags_combined_category_cm": "allergy, immunology, asthma, food allergy, Pulmonary & Critical Care Medicine, lung, asthma, pulmonary embolism, breathing, respratory", "tags_department": "food, Pulmonary, Critical Care Medicine, pulmonary embolism ", "tags_not_in_cm_based_on_location": "Allergy Clinic, Immunology Clinic, Pulmonary Clinic, Allergy & Immunology", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "12794", "clinic_name": "Clinical Ancillary Services Clinic", "clinic_id": "373", "location_id": "radiology, imaging, 5939 Harry Hines Blvd., imaging, Professional Office Building 2, POB2, HQ, west, scans, mri, ct, xray, mammogram", "tags_combined_category_cm": "", "tags_department": "", "tags_not_in_cm_based_on_location": "Clinical Ancillary Services, Ancillary Services, Ancillary Services Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "12708", "clinic_name": "Clinical Heart and Vascular Center - Vascular Surgery", "clinic_id": "65", "location_id": "cardiology, heart, cardiac, ECG, EKG, hypertension, 701 Tuscan Drive", "tags_combined_category_cm": "Cardiovascular & Thoracic Surgery - cardiac, heart valve, minimially invasive, aortic, heart, chest, thorax", "tags_department": "valve, minimially invasive, aortic, chest, thorax", "tags_not_in_cm_based_on_location": "Heart and Vascular Center, Heart Center, Vascular Cneter, Vascular Surgery, Heart Surgery", "tags_location": "West Campus Building 3 - WCB3, West Campus Building, West Campus, WC"}, {"gozio_id": "15731", "clinic_name": "Clinical Heart and Vascular Center", "clinic_id": "3", "location_id": "cardiology, heart, cardiovascular, 2001 Inwood Road, congestive, angina, afib, chest pain, cardio, cardiac", "tags_combined_category_cm": "Cardiology - cardiac, heart, chest pain, heart valve, angio, interventional, congestive, angina, heart attack, blood pressure, afib", "tags_department": "valve, angio, interventional, heart attack, blood pressure", "tags_not_in_cm_based_on_location": "Heart & Vascular Center, Heart Center, Vascular Center", "tags_location": "West Campus Building 3 - WCB3, West Campus Building, West Campus, WC"}, {"gozio_id": "15610", "clinic_name": "Cystic Fibrosis Clinic", "clinic_id": "131", "location_id": "pulmonology, lungs, respiratory, breathing, CF, Professional Office Building 2, POB2, HQ, 5939 Harry Hines, west, pulmonary", "tags_combined_category_cm": "Pulmonary & Critical Care Medicine - lung, asthma, pulmonary embolism, breathing, respiratory", "tags_department": " asthma, embolism", "tags_not_in_cm_based_on_location": "Cystic Fibrosis, Cysitic Clinic, Fibrosis Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15607", "clinic_name": "Dermatology Clinic (Dallas) - Suite 100", "clinic_id": "-1", "location_id": "dermatology, acne, eczema, skin, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, psoriasis, rosacea, lupus, basal cell, pigmentary, moles, derm", "tags_combined_category_cm": "Dermatology, derm, skin, basal cell, lupus, pigmentary, hair, acne", "tags_department": "hair", "tags_not_in_cm_based_on_location": "Dermatology", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15514", "clinic_name": "Digestive Disease Clinic", "clinic_id": "197", "location_id": "gastroenterology, hepatology, digestive, liver, endoscopy, colorectal, IBS, 1801 Inwood Road, colonoscopy, pancreas, celiac, stomach, gi", "tags_combined_category_cm": "Digestive & Liver Diseases - gastro,gastrointestinal,gastroenterologist,GI,gastroenterology,\"stomach stomach\", fatty liver, endoscopy, colonoscopy, pancreas, pancreatic, celiac", "tags_department": "gastro, gastrointestinal, gastroenterologist, fatty liver, pancreatic", "tags_not_in_cm_based_on_location": "Digestive, Disease Clinic, Digestive Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "", "clinic_name": "Family Medicine Clinic", "clinic_id": "9", "location_id": "family medicine, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, primary, community", "tags_combined_category_cm": "Family & Community Medicine - family, primary care, general doc, family planning, well exams,", "tags_department": "care, general doc, planning, well exams, ", "tags_not_in_cm_based_on_location": "Familiy Medicine, Family Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15513", "clinic_name": "Female Pelvic Medicine and Reconstructive Surgery Clinic", "clinic_id": "63", "location_id": "obstetrics, gynecology, OB/GYN, urogynecology, urinary, obgyn, endometriosis, hysterectomy, contraception, fertility, infertility, 1801 Inwood Road, pelvic pain", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina", "tags_department": "labor and delivery, l&d, babies, baby, well-women, periods, menopause, pregnancy, ovarian, bleeding, prenatal, women's health, vagina", "tags_not_in_cm_based_on_location": "Female Medicine, Pelvic Medicine, Reconstructive Surgery, Female Reconstrucive Surgery, Surgey Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15511", "clinic_name": "Fertility and Advanced Reproductive Medicine Clinic", "clinic_id": "10", "location_id": "obstetrics, gynecology, OB/GYN, vitro, fertilization, pelvic pain, contraception, hysterectomy, fertility, infertility, 1801 Inwood Road, endometriosis, obgyn", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina", "tags_department": "labor and delivery, l&d, babies, baby, well-women, periods, menopause, pregnancy, ovarian, bleeding, prenatal, women's health, vagina", "tags_not_in_cm_based_on_location": "Fertility, Reproductive Medicine, Fertility Clinic, Reproductive Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "12830", "clinic_name": "Imaging Services", "clinic_id": "44", "location_id": "radiology, imaging, CT, diagnostic, xray, 1801 Inwood Road, scans, outpatient building, mri, mammogram", "tags_combined_category_cm": "Radiology - imaging, scans, MRI, CT, x-ray, mammogram, mammo", "tags_department": "mammo", "tags_not_in_cm_based_on_location": "Imaging, Imaging Service", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15589", "clinic_name": "Internal Medicine - Pediatrics Clinic", "clinic_id": "316", "location_id": "pediatrics, adolescent, children, teenage, primary care, Newborn and Infant Care, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, int med", "tags_combined_category_cm": "Pediatriucs - Ped, peds, child, kids, adolescent / General Internal Medicine - internist,\"general medicine\",\"General medicine\",internal,Internal,internists, primary care,", "tags_department": "peds, child, kids, General ,internists", "tags_not_in_cm_based_on_location": "Internal Medicine, Pedicatrics, Pediatrics Internal medicine, Peds Clinic, Peds, Pediatrics Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15674", "clinic_name": "Internal Medicine Subspecialties Clinic", "clinic_id": "134", "location_id": "internal, 2001 Inwood Road, infectious, disease, lipid, metabolism, int med", "tags_combined_category_cm": "", "tags_department": "Cardiovascular & Thoracic Surgery - cardiac, heart valve, minimially invasive, aortic, chest, thorax", "tags_not_in_cm_based_on_location": "Internal Medicine, internal Medicine Clinic, Subspecialties Clinic", "tags_location": "West Campus Building 3 - WCB3, West Campus Building, West Campus, WC"}, {"gozio_id": "15593", "clinic_name": "Kidney and Liver Disease Clinic - Hepatology (Liver)", "clinic_id": "379", "location_id": "gastroenterology, hepatology, digestive, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, pancreas, fatty liver, endoscopy", "tags_combined_category_cm": "Digestive & Liver Diseases - gastro,gastrointestinal,gastroenterologist,GI,gastroenterology,\"stomach stomach\", fatty liver, endoscopy, colonoscopy, pancreas, pancreatic, celiac,", "tags_department": "gastro, gastrointestinal, gastroenterologist, colonoscopy, pancreatic, celiac", "tags_not_in_cm_based_on_location": "Kidney & Liver, Kidney Disease, Liver Disease, Kidney Clinic, Liver Clinic, Hepatology, Hepatology CLinicKidney Disease Clinic, Liver Disease Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15778", "clinic_name": "Laser Center for Vision Care", "clinic_id": "21", "location_id": "opthamology, optometry, cataracts, corenea, glaucoma, keratoconus, retina, macular, lasek, lasik, 1801 Inwood Road", "tags_combined_category_cm": "Opthalmology - eyes, cataracts, corenea, glaucoma, keratoconus, retina, macular, lasek, lasik, vision,", "tags_department": "eyes, vision", "tags_not_in_cm_based_on_location": "Laser, Laser Center, Vision", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15605", "clinic_name": "Lowe Foundation Center for Women\u2019s Preventative Health Care", "clinic_id": "22", "location_id": "obstetrics, gynecology, OB/GYN, obgyn, endometriosis, hysterectomy, contraception, fertility, infertility, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina", "tags_department": "labor and delivery, l&d, babies, baby, well-women, periods, pelvic pain, menopause, pregnancy, ovarian, bleeding, prenatal, women's health, vagina", "tags_not_in_cm_based_on_location": "Lowe Cneter, Women's Health, Women's Healthcare, Prevenatative Health, Center for Women", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "12818", "clinic_name": "Male Infertility Clinic", "clinic_id": "372", "location_id": "urology, urinary, 1801 Inwood Road, urinary, bladder, incontinence, sexual dysfunction, prostate, fertility", "tags_combined_category_cm": "Urology - prostrate, male, urinary, bladder, incontinence, sexual dysfunction", "tags_department": "", "tags_not_in_cm_based_on_location": "Male, Male Infertility, Male Clinic, Infertility Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15591", "clinic_name": "Mildred Wyatt & Ivor P. Wold Center for Geriatric Care", "clinic_id": "68", "location_id": "geriatics, elderly, fragility, palliative, POSH, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west", "tags_combined_category_cm": "Geriatric Medicine - elders, geriatrics, fragility, palliative, acute care for elders, POSH", "tags_department": "fragility, acute care for elders, elders", "tags_not_in_cm_based_on_location": "World Center, Geriatric, Geriatric Care, World Center for Geriatic Care", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15588", "clinic_name": "Mineral Metabolism & Clinical Research Clinic", "clinic_id": "1", "location_id": "endocrinology, metabolism, nutrition, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west", "tags_combined_category_cm": "Nutrition & Metaboloc Diseases - nutrition, metabolism, food", "tags_department": "food", "tags_not_in_cm_based_on_location": "Metabolism Clinic, Metabolism & Clinical Research, Research Clinic, Matabolism & Research Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15509", "clinic_name": "Multidisciplinary Surgery Clinic", "clinic_id": "24", "location_id": "surgery, Colorectal, endocrine, bariatric, acute, vascular, pancreatic, 1801 Inwood Road, outpatient, west, wa", "tags_combined_category_cm": "Surgery - bariatric, acute care", "tags_department": "care", "tags_not_in_cm_based_on_location": "Surgey, Surgery Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15505", "clinic_name": "Multi-Specialty Clinic", "clinic_id": "25", "location_id": "internal, 1801 Inwood Road, outpatient, west, wa, preventive, annual physicals, screenings", "tags_combined_category_cm": "N / A", "tags_department": "", "tags_not_in_cm_based_on_location": "Multi-specialty, Specialty Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15603", "clinic_name": "Ob/Gyn and Maternal-Fetal Medicine Clinic", "clinic_id": "23", "location_id": "obstetrics, gynecology, OB/GYN, endometriosis, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, obgyn, hysterectomy, contraception, fertility, infertility, labor delivery, prenatal, pregnancy, menopause", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina", "tags_department": "Obstetrics & Gynecology - obgyn, pain, pregnancy, ovarian, bleeding, women's health, vagina", "tags_not_in_cm_based_on_location": "Ob/Gyn, Ob/Gyn Clinic, Maternal-fetal Medicine, Maternal Medicine, Fetal Medicine, Maternal Clinic, Fetal Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15891", "clinic_name": "Occupational Health Clinic", "clinic_id": "300", "location_id": "occupational health, occupational, 5959 Harry Hines, Professional Office Building 1, POB1, HP, west", "tags_combined_category_cm": "", "tags_department": "", "tags_not_in_cm_based_on_location": "Occupational Health, Health Clinic, Occupational Clinic", "tags_location": "Professional Office Building 1 - Professional Building, Professional Building 1, POB1, North Campus, HP"}, {"gozio_id": "15496", "clinic_name": "Orthopaedic Clinic - Sports Medicine", "clinic_id": "92", "location_id": "orthopedics, orthopaedics, surgery, general orthopedic, ortho, 1801 Inwood Road, outpatient, west, wa, bones, sports, podiatry, fracture, spine, orthopedic, pt", "tags_combined_category_cm": "Orthopaedic Surgery - hip, knee, bones, wrist, elbow, foot, ankle, fracture, ortho, orthopedic, back, spine, shoulder, sports, sports medicine, PT, diabetic foot, upper extremities, podiatry", "tags_department": "hip, knee, wrist, elbow, foot, ankle, back, spine, shoulder, sports medicine, PT, diabetic foot, upper extremities", "tags_not_in_cm_based_on_location": "Ortho, Ortho Clinic, Orthopeadic Clinic, Sports, Sports Medicine, Sports Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15501", "clinic_name": "Orthopaedic Surgery Clinic", "clinic_id": "33", "location_id": "orthopedics, orthopaedics, 1801 Inwood Road, outpatient, west, wa, bones, sports, podiatry, fracture, spine, ortho, pt", "tags_combined_category_cm": "Orthopaedic Surgery - hip, knee, bones, wrist, elbow, foot, ankle, fracture, ortho, orthopedic, back, spine, shoulder, sports, sports medicine, PT, diabetic foot, upper extremities, podiatry", "tags_department": "hip, knee, wrist, elbow, foot, ankle, back, shoulder, sports medicine, PT, diabetic foot, upper extremities", "tags_not_in_cm_based_on_location": "Ortho, Orthopaedic Surgery, Ortho Clinic, Surgery Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15703", "clinic_name": "Otolaryngology Clinic", "clinic_id": "34", "location_id": "otorhinolaryngology, ear, nose, throat, audiology, neurotology, Clinical Center for Voice Care, Rhinology, facial plastics, head and neck oncology, 2001 Inwood Road, ent, speech, rhinology, sinus, tonsils, hearing, oto", "tags_combined_category_cm": "Otolaryngology - ear, nose, throat, ENT, ear nose and throat, allergies, balance, hearing, ears, rhinology, sinus, vocal cord, voice, horarseness, reflux, tonsil, tongue, audiology, speech, HPV, eye lift", "tags_department": "allergies, balance, hearing, ears, sinus, vocal cord, voice, horarseness, reflux, tongue, HPV, eye lift", "tags_not_in_cm_based_on_location": "Otolaryngology, Clinic", "tags_location": "West Campus Building 3 - WCB3, West Campus Building, West Campus, WC"}, {"gozio_id": "12862", "clinic_name": "Outpatient Imaging", "clinic_id": "271", "location_id": "radiology, imaging, 2201 Inwood Road, north, bill, rita, ne building, clements, scans, mri, ct, xray, mammogram", "tags_combined_category_cm": "Radiology - imaging, scans, MRI, CT, x-ray, mammogram, mammo", "tags_department": "mammo", "tags_not_in_cm_based_on_location": "Outpatient, Imaging", "tags_location": "Bill and Rita Clements Advanced Medical Imaging Center - Imaging Center, Clements Imaging Center, Clements Advanced Medical Imaging Center, Seay Biomendical Building, Seay Building, Seay, North Campus, NE"}, {"gozio_id": "15504", "clinic_name": "Pancreatic Cancer Prevention Program", "clinic_id": "318", "location_id": "urology, urinary, 1801 Inwood Road, outpatient, west, wa, radiation, oncology, pancreas", "tags_combined_category_cm": "Urology - prostrate, male, urinary, bladder, incontinence, sexual dysfunction, Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "prostrate, male, bladder, incontinence, sexual dysfunction, rad onc, oncologist", "tags_not_in_cm_based_on_location": "Pancreatic, Pancreatic Cancer, Cancer Prevention, Pancreatic Cancer Prevention", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "12823", "clinic_name": "Pelvic Floor Program", "clinic_id": "203", "location_id": "obstetrics, gynecology, OB/GYN, urogynecology, urinary, 1801 Inwood Road, fecal, incontinence, constipation, outpatient, west, wa", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina", "tags_department": "labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina", "tags_not_in_cm_based_on_location": "Pelvic Floor, Pelvic Program", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "12826", "clinic_name": "Plastic Surgery Clinic - Facial Paralysis", "clinic_id": "150", "location_id": "plastic, reconstructive surgery, bells palsy, 1801 Inwood Road, outpatient, west, wa, augmentation, tummy tuck, rosacea, makeover, enhancement, contouring", "tags_combined_category_cm": "Plastic Surgery - skin, plastics, cosmetic, face, facial, bell's palsy, body, body contouring, acne, rosacea, lift, makeover, tuck, tummy, enhancement, augmentation", "tags_department": "skin, plastics, cosmetic, face, facial, bell's palsy, body, body contouring, acne, lift, tuck, tummy", "tags_not_in_cm_based_on_location": "Plastic Surgery, Surgery Clinic, Facial Paralysis, Facial Surgery Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15774", "clinic_name": "Plastic Surgery Clinic", "clinic_id": "36", "location_id": "plastic, reconstructive surgery, 1801 Inwood Road, outpatient, west, wa, bells palsy, augmentation, enhancement, rosacea, contouring", "tags_combined_category_cm": "Plastic Surgery - skin, plastics, cosmetic, face, facial, bell's palsy, body, body contouring, acne, rosacea, lift, makeover, tuck, tummy, enhancement, augmentation", "tags_department": "skin,  cosmetic, face, facial, bell's palsy, body, body contouring, acne, lift, makeover, tuck, tummy", "tags_not_in_cm_based_on_location": "Plastic Surgery, Surgery Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "12816", "clinic_name": "Plastic Surgery Resident Cosmetic Clinic", "clinic_id": "409", "location_id": "plastic, reconstructive surgery, 1801 Inwood Road, outpatient, west, wa, bells palsy, augmentation, enhancement, rosacea, contouring, makeover", "tags_combined_category_cm": "Plastic Surgery - skin, plastics, cosmetic, face, facial, bell's palsy, body, body contouring, acne, rosacea, lift, makeover, tuck, tummy, enhancement, augmentation", "tags_department": "skin, cosmetic, face, facial, body, body contouring, acne, lift, tuck, tummy", "tags_not_in_cm_based_on_location": "Plastic Surgery, Plastic Surgery Clinic, Cosmetic Surgery Clinic, Cosmetic Clinic", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "12864", "clinic_name": "Positron Emission Tomography (PET) Imaging Facility", "clinic_id": "48", "location_id": "radiology, imaging, ECAT, CT, CT scan, 2201 Inwood Road, north, bill, rita, ne building, clements, scans, mri, ct, xray, mammogram", "tags_combined_category_cm": "Radiology - imaging, scans, MRI, CT, x-ray, mammogram, mammo", "tags_department": "mammo", "tags_not_in_cm_based_on_location": "PET, Imaging, Imaging Facility, Tomography", "tags_location": "Bill and Rita Clements Advanced Medical Imaging Center - Imaging Center, Clements Imaging Center, Clements Advanced Medical Imaging Center, Seay Biomendical Building, Seay Building, Seay, North Campus, NE"}, {"gozio_id": "12863", "clinic_name": "The Mary Nell and Ralph B. Rogers Magnetic Resonance Imaging Center", "clinic_id": "49", "location_id": "radiology, imaging, MRI, Philips, 2201 Inwood Road, north, bill, rita, clements, ne building, scans, mri, ct, xray, mammogram", "tags_combined_category_cm": "Radiology - imaging, scans, MRI, CT, x-ray, mammogram, mammo", "tags_department": "scans, mammo", "tags_not_in_cm_based_on_location": "Imaging Center, Magnetic Resonance,", "tags_location": "Bill and Rita Clements Advanced Medical Imaging Center - Imaging Center, Clements Imaging Center, Clements Advanced Medical Imaging Center, Seay Biomendical Building, Seay Building, Seay, North Campus, NE"}, {"gozio_id": "15406", "clinic_name": "UH SCC Cardio-Oncology Program", "clinic_id": "412", "location_id": "cardiology, heart, 2201 Inwood Road, seay, biomedical, nc, north, congestive, angina, chest, afib, cardio, cardiac", "tags_combined_category_cm": "Cardiology - cardiac, heart, chest pain, heart valve, angio, interventional, congestive, angina, heart attack, blood pressure, afib", "tags_department": "pain, heart valve, angio, interventional, heart attack, blood pressure", "tags_not_in_cm_based_on_location": "UH SCC, Cardio-oncology, Cardio-oncology Program", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15436", "clinic_name": "University Hospital Bone Marrow Transplantation/Hematologic Malignancies Clinic", "clinic_id": "55", "location_id": "hematology, blood, cancer, BMT, oncology, leukemia, 2201 Inwood Road, seay, biomedical, nc, north, hem onc, hematology oncology, hema", "tags_combined_category_cm": "Hematology-Oncology - blood cancer, hem onc, oncology, medical oncologist, cancer, bone marrow, leukemia, BMT", "tags_department": "medical oncologist,  bone marrow", "tags_not_in_cm_based_on_location": "University Hospital, Bone Marrow, Bone Marrow Transplant, Tansplant Clinic, Hematologic Malignancies, Bone Marrow Transplant Clinic, Hematologic Malignancies Clinic", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15407", "clinic_name": "University Hospital Breast Imaging Services", "clinic_id": "272", "location_id": "radiology, imaging, 2201 Inwood Road, north, seay, nc, biomedical, scans, mri, ct, xray, mammogram, mammo", "tags_combined_category_cm": "Radiology - imaging, scans, MRI, CT, x-ray, mammogram, mammo", "tags_department": "", "tags_not_in_cm_based_on_location": "University Hospital, Breast Imaging, Breast Imaging Services", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12788", "clinic_name": "University Hospital Center for Breast Care - Medical Oncology", "clinic_id": "57", "location_id": "obstetrics, gynecology, OB/GYN, cancer, 2201 Inwood Road, seay, biomedical, nc, north, obgyn, radiation, med onc, medonc", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina / Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina / Radiation Oncology - rad onc, oncology, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Breast, Breat Care, Medical OnclogyBreast Oncology, Medical Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15414", "clinic_name": "University Hospital Center for Breast Care - Surgical Oncology", "clinic_id": "97", "location_id": "obstetrics, gynecology, OB/GYN, cancer, 2201 Inwood Road, seay, biomedical, nc, north, obgyn, radiation, med onc, medonc", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina / Radiation Oncology - rad onc, oncology, oncologist, cancer / Surgery - bariatric, acute care", "tags_department": "labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina,  rad onc, oncologist, surgery,  bariatric, acute care", "tags_not_in_cm_based_on_location": "University Hospital, Breast, Breat Care, Medical Onclogy, Breast Oncology, Surgical Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15437", "clinic_name": "University Hospital Gynecologic Oncology Clinic", "clinic_id": "58", "location_id": "obstetrics, gynecology, OB/GYN, cancer, 2201 Inwood Road, seay, biomedical, nc, north, radiation, obgyn, endometriosis, hysterectomy, contraception, fertility, infertility, ovarian, pelvic pain", "tags_combined_category_cm": "Obstetrics & Gynecology - obgyn, ob/gyn, labor and delivery, l&d, babies, baby, well-women, periods, endometriosis, pelvic pain, menopause, pregnancy, contraception, fertility, infertility, gynecology, ovarian, bleeding, prenatal, hysterectomy, women's health, vagina / Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "labor and delivery, l&d, babies, baby, well-women, periods, menopause, pregnancy, bleeding, prenatal, women's health, vagina, rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Gyno, Gynecologic Oncology,", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15604", "clinic_name": "University Hospital Heart and Lung Clinic", "clinic_id": "41", "location_id": "cardiology, heart, transplant, hypertension, pulmonary, lung, asthma, breathing, embolism, respiratory, angina, congestive, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, chest pain, cardio, cardiac, afib", "tags_combined_category_cm": "Cardiology - cardiac, heart, chest pain, heart valve, angio, interventional, congestive, angina, heart attack, blood pressure, afib / Pulmonary and Critical Care Medicine - lung, asthma, pulmonary embolism, breathing, respratory", "tags_department": "valve, angio, interventional, heart attack, blood pressure, Critical Care Medicine", "tags_not_in_cm_based_on_location": "Unbiversity Hospital, Heart Clinic, Lung Clinic, Heart & Lung", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15434", "clinic_name": "University Hospital Infusion Clinic", "clinic_id": "275", "location_id": "infusion therapy, radiation, oncology, cancer, 2201 Inwood Road, seay, biomedical, nc, north", "tags_combined_category_cm": "Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Infusion Clinic, Infusioon", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15598", "clinic_name": "University Hospital Kidney and Liver Transplant Clinic", "clinic_id": "59", "location_id": "\nkidney, liver, 5939 Harry Hines, Professional Office Building 2, POB2, hq, west, kidney stones", "tags_combined_category_cm": "Nephrology - kidney, liver, transplant, kidney stones", "tags_department": "transplant", "tags_not_in_cm_based_on_location": "University Hospital, Kidney Transplant, Kidney Clinic, Kidney Transplant Clinic, Liver Transplant, Liver Clinic, Liver Transplant Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15815", "clinic_name": "University Hospital Medical & Surgical Oncology Clinic - Pancreatic Multidisciplinary Program", "clinic_id": "327", "location_id": "urology, urinary, 2201 Inwood Road, seay, biomedical, nc, north, med onc, surg onc, pancreas, cancer, medonc, surgonc", "tags_combined_category_cm": "Urology - prostrate, male, urinary, bladder, incontinence, sexual dysfunction", "tags_department": "prostrate, male, bladder, incontinence, sexual dysfunction", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Medical & Surgical Oncology, Pancreatic, Pancreatic Multidisciplinary Program", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12783", "clinic_name": "University Hospital Medical Oncology Clinic - Bone", "clinic_id": "99", "location_id": "hematology, blood, 2201 Inwood Road, BMT, radiation, cancer, leukemia, seay, biomedical, nc, north, hem onc, hematology oncology, med onc, medonc, hema", "tags_combined_category_cm": "Hematology-Oncology - blood cancer, hem onc, oncology, medical oncologist, cancer, bone marrow, leukemia, BMT / Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "medical oncologist, marrow, BMT,  rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Bone, Bone Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15411", "clinic_name": "University Hospital Medical Oncology Clinic - Brain", "clinic_id": "100", "location_id": "neurology, nervous, brain, spine, alzheimers, parkinsons, seizures, 2201 Inwood Road, seay, biomedical, nc, north, cancer, med onc, radiation, epilepsy, medonc", "tags_combined_category_cm": "Neurology - neuro, spine, spinal, brain, brain tumor, headache, epilepsy, alzheimers, parkinsons, seizures / Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "neuro, spinal, tumor, headache, seizures  rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Brain, Brain Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15413", "clinic_name": "University Hospital Medical Oncology Clinic - Cancer Genetics", "clinic_id": "133", "location_id": "oncology, cancer, heredity, radiation, 2201 Inwood Road, seay, biomedical, nc, north, med onc, clinical genetics, medonc", "tags_combined_category_cm": "Radiation Oncology - rad onc, oncology, oncologist, cancer/ Clinical Genetics - genese, heredity", "tags_department": "rad onc, oncologist,  genes", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Cancer Genetics", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12776", "clinic_name": "University Hospital Medical Oncology Clinic - Esophageal", "clinic_id": "107", "location_id": "otorhinolaryngology, ear, nose, throat, esophagus, 2201 Inwood Road, radiation, cancer, seay, biomedical, nc, north, Otolaryngology, med onc, medonc", "tags_combined_category_cm": "Otolaryngology - ear, nose, throat, ENT, ear nose and throat, allergies, balance, hearing, ears, rhinology, sinus, vocal cord, voice, horarseness, reflux, tonsil, tongue, audiology, speech, HPV, eye lift / Radition Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "allergies, balance, hearing, ears, rhinology, sinus, vocal cord, voice, horarseness, reflux, tonsil, tongue, audiology, speech, HPV, eye lift,  rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Esophageal, Esophageal Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12781", "clinic_name": "University Hospital Medical Oncology Clinic - Gastrointestinal", "clinic_id": "101", "location_id": "gastroenterology, hepatology, digestive, 2201 Inwood Road, surgery, bariatic, acute, radiation, seay, biomedical, nc, north, cancer, med onc, colonoscopy, pancreas, celiac, liver, stomach, endoscopy, gut, medonc, gi", "tags_combined_category_cm": "Digestive & Liver Diseases - gastro,gastrointestinal,gastroenterologist,GI,gastroenterology,\"stomach stomach\", fatty liver, endoscopy, colonoscopy, pancreas, pancreatic, celiac / Radiation Oncology - rad onc, oncology, oncologist, cancer  (AC - is this meant to say \"stomach stomach\" and why is this in \"\"?) ", "tags_department": "gastro, gastrointestinal, gastroenterologist, fatty, colonoscopy, pancreatic, celiac,  rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Gastrointestinal, Gastrointestinal Oncology, Medical oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12779", "clinic_name": "University Hospital Medical Oncology Clinic - Genitourinary", "clinic_id": "103", "location_id": "urology, urinary, 2201 Inwood Road, seay, biomedical, nc, north, radiation, cancer, med onc, bladder, medonc", "tags_combined_category_cm": "Urology - prostrate, male, urinary, bladder, incontinence, sexual dysfunction / Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "prostrate, male, incontinence, sexual dysfunction ,rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Genitourinary, Genitourinary Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12778", "clinic_name": "University Hospital Medical Oncology Clinic - Head & Neck", "clinic_id": "104", "location_id": "neurology, nervous, brain, spine, medical oncologist, 2201 Inwood Road, seay, biomedical, nc, north, radiation, cancer, med onc, medonc", "tags_combined_category_cm": "Neurology - neuro, spine, spinal, brain, brain tumor, headache, epilepsy, alzheimers, parkinsons, seizures / Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "neuro, spinal, brain tumor, headache, epilepsy, alzheimers, parkinsons, seizures rad onc, oncology, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Head, Neck, Head & Neck", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12777", "clinic_name": "University Hospital Medical Oncology Clinic - Lung", "clinic_id": "105", "location_id": "pulmonology, lungs, respiratory, breathing, medical oncologist, 2201 Inwood Road, seay, biomedical, nc, north, cancer, med onc, pulmonary embolism, asthma, chest, medonc", "tags_combined_category_cm": "Pulmonary & Critical Care Medicine - lung, asthma, pulmonary embolism, breathing, respiratory", "tags_department": "", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Lung, Lung Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15432", "clinic_name": "University Hospital Medical Oncology Clinic - Melanoma/Sarcoma (Dallas) - Suite 116", "clinic_id": "-1", "location_id": "dermatology, 2201 Inwood Road, seay, biomedical, nc, north, radiation, cancer, med onc, eczema, psoriasis, rosacea, skin, acne, lupus, basal cell, pigmentary, moles", "tags_combined_category_cm": "Dermatology, derm, skin, basal cell, lupus, pigmentary, hair, acne, Radiation Oncology, rad onc, oncology, oncologist, cancer", "tags_department": "derm, hair, rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Melanoma, Melanoma Clinic, Medical Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15430", "clinic_name": "University Hospital Medical Oncology Clinic - Oncology Rehabilitation", "clinic_id": "116", "location_id": "physical therapy, rehabilitation, cancer, pt, pmr, 2201 Inwood Road, seay, biomedical, nc, north, radiation, pain management, med onc, occupational, ot, speech, st, rehab, medonc", "tags_combined_category_cm": "oncologist, Physical Medicine, recover, rehab, inpatient rehab, outpatient rehab", "tags_department": "recover, inpatient rehab, outpatient rehab", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Onology Rehabilitation, Rehab, Rehabillitation", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15422", "clinic_name": "University Hospital Medical Oncology Clinic - Physical Therapy", "clinic_id": "302", "location_id": "physical therapy, rehabilitation, 2201 Inwood Road, seay, biomedical, nc, north, cancer, pt, pmr, pain management, rehabilitation, rehab, physical medicine, med onc, occupational, ot, speech, st, medonc", "tags_combined_category_cm": "Physical Medicine, recover, inpatient rehab, outpatient rehab", "tags_department": "Physical Medicine, recover, inpatient rehab, outpatient rehab", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Physical Therapy, PT", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12770", "clinic_name": "University Hospital Medical Oncology Clinic - Pulmonary", "clinic_id": "191", "location_id": "pulmonology, lungs, respiratory, breathing, surgical oncologist, lung, 2201 Inwood Road, med onc, seay, biomedical, nc, north, cancer, pulmonary embolism, asthma, chest, medonc", "tags_combined_category_cm": "Pulmonary & Critical Care Medicine - lung, asthma, pulmonary embolism, breathing, respiratory", "tags_department": "", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Pulmonary", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12775", "clinic_name": "University Hospital Medical Oncology Clinic - Supportive and Palliative Care Clinic", "clinic_id": "114", "location_id": "geriatics, elderly, fragility, POSH, cancer, 2201 Inwood Road, seay, biomedical, nc, north, med onc", "tags_combined_category_cm": "Geriatic Medicine - elders, geriatrics, fragility, palliative, acute care for elders, POSH", "tags_department": "geriatrics, fragility, palliative, acute care for elders, elders", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Supportive Care, Pallatove Care, Supportiove Clinic, Pallative Clinic, Supportive & Pallative Clinic", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15499", "clinic_name": "University Hospital Outpatient Imaging Services - CT Cardiac Screening", "clinic_id": "257", "location_id": "cardiology, heart, angina, congestive, chest, afib, 1801 Inwood Road, outpatient, west, wa, radiology", "tags_combined_category_cm": "Cardiology - cardiac, heart, chest pain, heart valve, angio, interventional, congestive, angina, heart attack, blood pressure, afib", "tags_department": "chest pain, heart valve, angio, interventional, angina, heart attack, blood pressure", "tags_not_in_cm_based_on_location": "University Hospital, Outpatient Imaging Services, Outpatient Imaging, Imaging Services, Cardiac, CT Screening, Cardiac Screening", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "12827", "clinic_name": "University Hospital Outpatient Imaging Services - CT Lung Screening", "clinic_id": "132", "location_id": "pulmonology, lungs, respiratory, breathing, radiology, 1801 Inwood Road, outpatient, west, wa, pulmonary embolism, asthma", "tags_combined_category_cm": "Pulmonary & Critical Care Medicine - lung, asthma, pulmonary embolism, breathing, respiratory", "tags_department": "", "tags_not_in_cm_based_on_location": "University Hospital, Outpatient Imaging Services, Outpatient Imaging, Imaging Services, Lung, CT Screening, Lung Screeening", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15497", "clinic_name": "University Hospital Outpatient Laboratory", "clinic_id": "283", "location_id": "laboratory, pathology, 1801 Inwood Road, west, wa, labs", "tags_combined_category_cm": "", "tags_department": "", "tags_not_in_cm_based_on_location": "University Hospital, Outpatient Laboratory", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15535", "clinic_name": "University Hospital Outpatient Laboratory", "clinic_id": "284", "location_id": "laboratory, pathology, 5959 Harry Hines, Professional Office Building 1, POB1, HP, west, labs", "tags_combined_category_cm": "", "tags_department": "", "tags_not_in_cm_based_on_location": "Universiy Hospital, Outpatient Laboratory, Laboratory", "tags_location": "Professional Office Building 1 - Professional Building, Professional Building 1, POB1, North Campus, HP"}, {"gozio_id": "15435", "clinic_name": "University Hospital Outpatient Laboratory", "clinic_id": "285", "location_id": "laboratory, pathology, 2201 Inwood Road, seay, biomedical, nc, north, labs", "tags_combined_category_cm": "", "tags_department": "", "tags_not_in_cm_based_on_location": "University Hospital, Utpatient, Outpatient Laboratory", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15534", "clinic_name": "University Hospital Outpatient Surgery Center", "clinic_id": "374", "location_id": "surgery, acute, 1801 Inwood Road, west, wa, bariatric", "tags_combined_category_cm": "Surgery - bariatric, acute care", "tags_department": "care", "tags_not_in_cm_based_on_location": "University Haospital, Outpatient Surgery,Surgery Center", "tags_location": "Outpatient Building - Outpatient, West Campus, WA"}, {"gozio_id": "15539", "clinic_name": "University Hospital Physical Medicine and Rehabilitation Clinic", "clinic_id": "293", "location_id": "physical therapy, rehabilitation, 5959 Harry Hines, Professional Office Building 1, POB1, HP, west, pt, pmr, pain management, rehab, occupational, ot, speech, st", "tags_combined_category_cm": "Physical Medicine, recover, inpatient rehab, outpatient rehab", "tags_department": "Physical Medicine, recover, inpatient rehab, outpatient rehab", "tags_not_in_cm_based_on_location": "University Hospital, Physical Medicine, Rehabilitation Clinic", "tags_location": "Professional Office Building 1 - Professional Building, Professional Building 1, POB1, North Campus, HP"}, {"gozio_id": "12712", "clinic_name": "University Hospital Radiation Oncology Clinic", "clinic_id": "52", "location_id": "oncology, cancer, rad onc, 5801 Forest Park Road, NF, radonc, monty", "tags_combined_category_cm": "Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Radiation Clinic, Radiation Oncology, Oncology Clinic", "tags_location": "Radiation Oncology Building - Radiation Oncology, Rad Onc, Moncreif, North Campus, NF"}, {"gozio_id": "15892", "clinic_name": "University Hospital Radiology Clinic", "clinic_id": "425", "location_id": "radiology, imaging, 5959 Harry Hines, Professional Office Building 1, POB1, HP, west, scans, MRI, CT, x-ray, mammogram, mammo, xray", "tags_combined_category_cm": "Radiology - imaging, scans, MRI, CT, x-ray, mammogram, mammo", "tags_department": "", "tags_not_in_cm_based_on_location": "University Hospital, Radiology Clinic, Radiology", "tags_location": "Professional Office Building 1 - Professional Building, Professional Building 1, POB1, North Campus, HP"}, {"gozio_id": "15580", "clinic_name": "University Hospital Sleep and Breathing Disorders Clinic", "clinic_id": "54", "location_id": "pulmonology, lungs, respiratory, breathing, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, asthma, insomnia", "tags_combined_category_cm": "Pulmonary & Critical Care Medicine - lung, asthma, pulmonary embolism, breathing, respiratory", "tags_department": "pulmonary embolism", "tags_not_in_cm_based_on_location": "University Hospital, Sleep Clinic, Sleep Disorders, Breathing Disorders, Breathing Clinic, Sleep & Breathing Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "12780", "clinic_name": "University Hospital Surgical Oncology Clinic - Gastrointestinal", "clinic_id": "102", "location_id": "gastroenterology, hepatology, digestive, 2201 Inwood Road, surgery, bariatic, acute, radiation, seay, biomedical, nc, north, cancer, colonoscopy, pancreas, celiac, liver, stomach, endoscopy, surg onc, gut, surgonc, gi", "tags_combined_category_cm": "Digestive & Liver Diseases - gastro,gastrointestinal,gastroenterologist,GI,gastroenterology,\"stomach stomach\", fatty liver, endoscopy, colonoscopy, pancreas, pancreatic, celiac / Radiation Oncology - rad onc, oncology, oncologist, cancer / Surgery - bariatric, acute care ", "tags_department": "gastro, gastrointestinal, gastroenterologist, fatty, pancreatic, celiac, rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Gastrointestinal, Gastrointestinal Oncology, Gastrointestinal Surgery", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12773", "clinic_name": "University Hospital Surgical Oncology Clinic - Hepatocellular Carcinoma", "clinic_id": "122", "location_id": "gastroenterology, hepatology, digestive, 2201 Inwood Road, seay, biomedical, nc, north, surgery, radiation, cancer, liver, fatty, cirrhosis, hepatitis, gut, surg onc, surgonc", "tags_combined_category_cm": "Digestive & Liver Diseases - gastro,gastrointestinal,gastroenterologist,GI,gastroenterology,\"stomach stomach\", fatty liver, endoscopy, colonoscopy, pancreas, pancreatic, celiac / Radiation Oncology - rad onc, oncology, oncologist, cancer / Surgery - bariatic, acute care", "tags_department": "gastro, gastrointestinal, gastroenterologist, GI, stomach stomach, fatty liver, endoscopy, colonoscopy, pancreas, pancreatic, celiac, rad onc,  oncologist, bariatic, acute care", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Hepatocellular Carcinoma", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15438", "clinic_name": "University Hospital Surgical Oncology Clinic - Melanoma/Sarcoma", "clinic_id": "98", "location_id": "dermatology, cancer, 2201 Inwood Road, seay, biomedical, nc, north, surg onc, radiation, eczema, psoriasis, rosacea, skin, acne, lupus, basal cell, pigmentary, moles", "tags_combined_category_cm": "Dermatology, derm, skin, basal cell, lupus, pigmentary, hair, acne, Radiation Oncology,  rad onc, oncology, oncologist, cancer", "tags_department": "derm, hair, rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Melanoma, Melanoma Clinic, Surgical Oncology", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "12772", "clinic_name": "University Hospital Surgical Oncology Clinic - Thoracic Surgery", "clinic_id": "129", "location_id": "pulmonology, lungs, respiratory, breathing, cancer, 2201 Inwood Road, seay, biomedical, nc, north, acute, pulmonary, radiation, surg onc, thorax, chest, surgonc", "tags_combined_category_cm": "Pulmonary & Critical Care Medicine - lung, asthma, pulmonary embolism, breathing, respratory / Radiation Oncology - rad onc, oncology, oncologist, cancer", "tags_department": "asthma, pulmonary embolism, respratory, rad onc, oncologist", "tags_not_in_cm_based_on_location": "University Hospital, Oncology Clinic, Oncology, Thoracic Surgery", "tags_location": "Seay Biomedical Building - Seay Building, Biomedical Business, North Campus, NC"}, {"gozio_id": "15583", "clinic_name": "University Hospital Wound Care Clinic", "clinic_id": "250", "location_id": "orthopedics, orthopaedics, surgery, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, wound care", "tags_combined_category_cm": "Orthopaedic Surgery - hip, knee, bones, wrist, elbow, foot, ankle, fracture, ortho, orthopedic, back, spine, shoulder, sports, sports medicine, PT, diabetic foot, upper extremities, podiatry", "tags_department": "hip, knee, bones, wrist, elbow, foot, ankle, fracture, ortho, orthopedic, back, spine, shoulder, sports, sports medicine, diabetic foot, upper extremities, podiatry", "tags_not_in_cm_based_on_location": "University Hospital, Wound Care, Wound Clinic, Wound Care Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}, {"gozio_id": "15745", "clinic_name": "Urology Clinic", "clinic_id": "64", "location_id": "urology, urinary, urinary, bladder, incontinence, sexual dysfunction, prostate, 2001 Inwood Road, west, WCB3", "tags_combined_category_cm": "Urology - prostrate, male, urinary, bladder, incontinence, sexual dysfunction", "tags_department": "male", "tags_not_in_cm_based_on_location": "Urology, Clinic", "tags_location": "West Campus Building 3 - WCB3, West Campus Building, West Campus, WC"}, {"gozio_id": "10005", "clinic_name": "William P. Clements Jr. University Hospital", "clinic_id": "270", "location_id": "west, 6201 Harry Hines", "tags_combined_category_cm": " ", "tags_department": "Cardiovascular & Thoracic Surgery - cardiac, heart valve, minimially invasive, aortic, chest, thorax", "tags_not_in_cm_based_on_location": "Clements Hospital, Clements, CUH, Hospital, North Campus", "tags_location": "Clements Hospital, Clements, CUH, Hospital, North Campus"}, {"gozio_id": "15592", "clinic_name": "William T. and Gay F. Solomon General Internal Medicine Clinic", "clinic_id": "291", "location_id": "internal, 5939 Harry Hines, Professional Office Building 2, POB2, HQ, west, primary, gim, pcp, primary care, int med", "tags_combined_category_cm": "General Internal Medicine - internist,\"general medicine\",\"General medicine\",internal,Internal,internists, primary care,", "tags_department": "General Internal Medicine,  internists, general medicine", "tags_not_in_cm_based_on_location": "Solomon General, Seneral Internal Medicine, Internal Medicine, Internal Medicine Clinic, Internal Clinic", "tags_location": "Professional Office Building 2 - Professional Building, Professional Building 2, POB2, North Campus, HQ"}]
+[
+    {
+        "gozio_id": "15587",
+        "clinic_name": "Allergy, Immunology and Pulmonary Clinic",
+        "clinic_id": "13",
+        "location_id": "A130",
+        "tags_combined_category_cm": [
+            "allergy",
+            "immunology",
+            "asthma",
+            "lung",
+            "embolism",
+            "Professional Office Building 2",
+            "5939 Harry Hines",
+            "POB2",
+            "HQ",
+            "west",
+            "pulmonology",
+            "lungs",
+            "respiratory",
+            "breathing"
+        ],
+        "tags_department": [
+            "allergy",
+            "immunology",
+            "asthma",
+            "food allergy",
+            "Pulmonary & Critical Care Medicine",
+            "lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respratory"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "food",
+            "Pulmonary",
+            "Critical Care Medicine",
+            "pulmonary embolism"
+        ],
+        "tags_location": [
+            "Allergy Clinic",
+            "Immunology Clinic",
+            "Pulmonary Clinic",
+            "Allergy & Immunology"
+        ]
+    },
+    {
+        "gozio_id": "12794",
+        "clinic_name": "Clinical Ancillary Services Clinic",
+        "clinic_id": "373",
+        "location_id": "A141",
+        "tags_combined_category_cm": [
+            "radiology",
+            "imaging",
+            "5939 Harry Hines Blvd.",
+            "imaging",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "scans",
+            "mri",
+            "ct",
+            "xray",
+            "mammogram"
+        ],
+        "tags_department": [
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "Clinical Ancillary Services",
+            "Ancillary Services",
+            "Ancillary Services Clinic"
+        ]
+    },
+    {
+        "gozio_id": "12708",
+        "clinic_name": "Clinical Heart and Vascular Center - Vascular Surgery",
+        "clinic_id": "65",
+        "location_id": "A173",
+        "tags_combined_category_cm": [
+            "cardiology",
+            "heart",
+            "cardiac",
+            "ECG",
+            "EKG",
+            "hypertension",
+            "701 Tuscan Drive"
+        ],
+        "tags_department": [
+            "Cardiovascular & Thoracic Surgery - cardiac",
+            "heart valve",
+            "minimially invasive",
+            "aortic",
+            "heart",
+            "chest",
+            "thorax"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "valve",
+            "minimially invasive",
+            "aortic",
+            "chest",
+            "thorax"
+        ],
+        "tags_location": [
+            "Heart and Vascular Center",
+            "Heart Center",
+            "Vascular Cneter",
+            "Vascular Surgery",
+            "Heart Surgery"
+        ]
+    },
+    {
+        "gozio_id": "15731",
+        "clinic_name": "Clinical Heart and Vascular Center",
+        "clinic_id": "3",
+        "location_id": "A170",
+        "tags_combined_category_cm": [
+            "cardiology",
+            "heart",
+            "cardiovascular",
+            "2001 Inwood Road",
+            "congestive",
+            "angina",
+            "afib",
+            "chest pain",
+            "cardio",
+            "cardiac"
+        ],
+        "tags_department": [
+            "Cardiology - cardiac",
+            "heart",
+            "chest pain",
+            "heart valve",
+            "angio",
+            "interventional",
+            "congestive",
+            "angina",
+            "heart attack",
+            "blood pressure",
+            "afib"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "valve",
+            "angio",
+            "interventional",
+            "heart attack",
+            "blood pressure"
+        ],
+        "tags_location": [
+            "Heart & Vascular Center",
+            "Heart Center",
+            "Vascular Center"
+        ]
+    },
+    {
+        "gozio_id": "15610",
+        "clinic_name": "Cystic Fibrosis Clinic",
+        "clinic_id": "131",
+        "location_id": "A137",
+        "tags_combined_category_cm": [
+            "pulmonology",
+            "lungs",
+            "respiratory",
+            "breathing",
+            "CF",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "5939 Harry Hines",
+            "west",
+            "pulmonary"
+        ],
+        "tags_department": [
+            "Pulmonary & Critical Care Medicine - lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respiratory"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "asthma",
+            "embolism"
+        ],
+        "tags_location": [
+            "Cystic Fibrosis",
+            "Cysitic Clinic",
+            "Fibrosis Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15607",
+        "clinic_name": "Dermatology Clinic (Dallas) - Suite 100",
+        "clinic_id": "-1",
+        "location_id": "A129",
+        "tags_combined_category_cm": [
+            "dermatology",
+            "acne",
+            "eczema",
+            "skin",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "psoriasis",
+            "rosacea",
+            "lupus",
+            "basal cell",
+            "pigmentary",
+            "moles",
+            "derm"
+        ],
+        "tags_department": [
+            "Dermatology",
+            "derm",
+            "skin",
+            "basal cell",
+            "lupus",
+            "pigmentary",
+            "hair",
+            "acne"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "hair"
+        ],
+        "tags_location": [
+            "Dermatology"
+        ]
+    },
+    {
+        "gozio_id": "15514",
+        "clinic_name": "Digestive Disease Clinic",
+        "clinic_id": "197",
+        "location_id": "A115",
+        "tags_combined_category_cm": [
+            "gastroenterology",
+            "hepatology",
+            "digestive",
+            "liver",
+            "endoscopy",
+            "colorectal",
+            "IBS",
+            "1801 Inwood Road",
+            "colonoscopy",
+            "pancreas",
+            "celiac",
+            "stomach",
+            "gi"
+        ],
+        "tags_department": [
+            "Digestive & Liver Diseases - gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "GI",
+            "gastroenterology",
+            "\"stomach stomach\"",
+            "fatty liver",
+            "endoscopy",
+            "colonoscopy",
+            "pancreas",
+            "pancreatic",
+            "celiac"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "fatty liver",
+            "pancreatic"
+        ],
+        "tags_location": [
+            "Digestive",
+            "Disease Clinic",
+            "Digestive Clinic"
+        ]
+    },
+    {
+        "gozio_id": "",
+        "clinic_name": "Family Medicine Clinic",
+        "clinic_id": "9",
+        "location_id": "A128",
+        "tags_combined_category_cm": [
+            "family medicine",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "primary",
+            "community"
+        ],
+        "tags_department": [
+            "Family & Community Medicine - family",
+            "primary care",
+            "general doc",
+            "family planning",
+            "well exams",
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "care",
+            "general doc",
+            "planning",
+            "well exams",
+            ""
+        ],
+        "tags_location": [
+            "Familiy Medicine",
+            "Family Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15513",
+        "clinic_name": "Female Pelvic Medicine and Reconstructive Surgery Clinic",
+        "clinic_id": "63",
+        "location_id": "A111",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "urogynecology",
+            "urinary",
+            "obgyn",
+            "endometriosis",
+            "hysterectomy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "1801 Inwood Road",
+            "pelvic pain"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "menopause",
+            "pregnancy",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "women's health",
+            "vagina"
+        ],
+        "tags_location": [
+            "Female Medicine",
+            "Pelvic Medicine",
+            "Reconstructive Surgery",
+            "Female Reconstrucive Surgery",
+            "Surgey Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15511",
+        "clinic_name": "Fertility and Advanced Reproductive Medicine Clinic",
+        "clinic_id": "10",
+        "location_id": "A104",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "vitro",
+            "fertilization",
+            "pelvic pain",
+            "contraception",
+            "hysterectomy",
+            "fertility",
+            "infertility",
+            "1801 Inwood Road",
+            "endometriosis",
+            "obgyn"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "menopause",
+            "pregnancy",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "women's health",
+            "vagina"
+        ],
+        "tags_location": [
+            "Fertility",
+            "Reproductive Medicine",
+            "Fertility Clinic",
+            "Reproductive Clinic"
+        ]
+    },
+    {
+        "gozio_id": "12830",
+        "clinic_name": "Imaging Services",
+        "clinic_id": "44",
+        "location_id": "A110",
+        "tags_combined_category_cm": [
+            "radiology",
+            "imaging",
+            "CT",
+            "diagnostic",
+            "xray",
+            "1801 Inwood Road",
+            "scans",
+            "outpatient building",
+            "mri",
+            "mammogram"
+        ],
+        "tags_department": [
+            "Radiology - imaging",
+            "scans",
+            "MRI",
+            "CT",
+            "x-ray",
+            "mammogram",
+            "mammo"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "mammo"
+        ],
+        "tags_location": [
+            "Imaging",
+            "Imaging Service"
+        ]
+    },
+    {
+        "gozio_id": "15589",
+        "clinic_name": "Internal Medicine - Pediatrics Clinic",
+        "clinic_id": "316",
+        "location_id": "A140",
+        "tags_combined_category_cm": [
+            "pediatrics",
+            "adolescent",
+            "children",
+            "teenage",
+            "primary care",
+            "Newborn and Infant Care",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "int med"
+        ],
+        "tags_department": [
+            "Pediatriucs - Ped",
+            "peds",
+            "child",
+            "kids",
+            "adolescent / General Internal Medicine - internist",
+            "\"general medicine\"",
+            "\"General medicine\"",
+            "internal",
+            "Internal",
+            "internists",
+            "primary care",
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "peds",
+            "child",
+            "kids",
+            "General",
+            "internists"
+        ],
+        "tags_location": [
+            "Internal Medicine",
+            "Pedicatrics",
+            "Pediatrics Internal medicine",
+            "Peds Clinic",
+            "Peds",
+            "Pediatrics Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15674",
+        "clinic_name": "Internal Medicine Subspecialties Clinic",
+        "clinic_id": "134",
+        "location_id": "A174",
+        "tags_combined_category_cm": [
+            "internal",
+            "2001 Inwood Road",
+            "infectious",
+            "disease",
+            "lipid",
+            "metabolism",
+            "int med"
+        ],
+        "tags_department": [
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "Cardiovascular & Thoracic Surgery - cardiac",
+            "heart valve",
+            "minimially invasive",
+            "aortic",
+            "chest",
+            "thorax"
+        ],
+        "tags_location": [
+            "Internal Medicine",
+            "internal Medicine Clinic",
+            "Subspecialties Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15593",
+        "clinic_name": "Kidney and Liver Disease Clinic - Hepatology (Liver)",
+        "clinic_id": "379",
+        "location_id": "A142",
+        "tags_combined_category_cm": [
+            "gastroenterology",
+            "hepatology",
+            "digestive",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "pancreas",
+            "fatty liver",
+            "endoscopy"
+        ],
+        "tags_department": [
+            "Digestive & Liver Diseases - gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "GI",
+            "gastroenterology",
+            "\"stomach stomach\"",
+            "fatty liver",
+            "endoscopy",
+            "colonoscopy",
+            "pancreas",
+            "pancreatic",
+            "celiac",
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "colonoscopy",
+            "pancreatic",
+            "celiac"
+        ],
+        "tags_location": [
+            "Kidney & Liver",
+            "Kidney Disease",
+            "Liver Disease",
+            "Kidney Clinic",
+            "Liver Clinic",
+            "Hepatology",
+            "Hepatology CLinicKidney Disease Clinic",
+            "Liver Disease Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15778",
+        "clinic_name": "Laser Center for Vision Care",
+        "clinic_id": "21",
+        "location_id": "A105",
+        "tags_combined_category_cm": [
+            "opthamology",
+            "optometry",
+            "cataracts",
+            "corenea",
+            "glaucoma",
+            "keratoconus",
+            "retina",
+            "macular",
+            "lasek",
+            "lasik",
+            "1801 Inwood Road"
+        ],
+        "tags_department": [
+            "Opthalmology - eyes",
+            "cataracts",
+            "corenea",
+            "glaucoma",
+            "keratoconus",
+            "retina",
+            "macular",
+            "lasek",
+            "lasik",
+            "vision",
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "eyes",
+            "vision"
+        ],
+        "tags_location": [
+            "Laser",
+            "Laser Center",
+            "Vision"
+        ]
+    },
+    {
+        "gozio_id": "15605",
+        "clinic_name": "Lowe Foundation Center for Women\u2019s Preventative Health Care",
+        "clinic_id": "22",
+        "location_id": "A131",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "obgyn",
+            "endometriosis",
+            "hysterectomy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "women's health",
+            "vagina"
+        ],
+        "tags_location": [
+            "Lowe Cneter",
+            "Women's Health",
+            "Women's Healthcare",
+            "Prevenatative Health",
+            "Center for Women"
+        ]
+    },
+    {
+        "gozio_id": "12818",
+        "clinic_name": "Male Infertility Clinic",
+        "clinic_id": "372",
+        "location_id": "A120",
+        "tags_combined_category_cm": [
+            "urology",
+            "urinary",
+            "1801 Inwood Road",
+            "urinary",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction",
+            "prostate",
+            "fertility"
+        ],
+        "tags_department": [
+            "Urology - prostrate",
+            "male",
+            "urinary",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "Male",
+            "Male Infertility",
+            "Male Clinic",
+            "Infertility Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15591",
+        "clinic_name": "Mildred Wyatt & Ivor P. Wold Center for Geriatric Care",
+        "clinic_id": "68",
+        "location_id": "A136",
+        "tags_combined_category_cm": [
+            "geriatics",
+            "elderly",
+            "fragility",
+            "palliative",
+            "POSH",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west"
+        ],
+        "tags_department": [
+            "Geriatric Medicine - elders",
+            "geriatrics",
+            "fragility",
+            "palliative",
+            "acute care for elders",
+            "POSH"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "fragility",
+            "acute care for elders",
+            "elders"
+        ],
+        "tags_location": [
+            "World Center",
+            "Geriatric",
+            "Geriatric Care",
+            "World Center for Geriatic Care"
+        ]
+    },
+    {
+        "gozio_id": "15588",
+        "clinic_name": "Mineral Metabolism & Clinical Research Clinic",
+        "clinic_id": "1",
+        "location_id": "A127",
+        "tags_combined_category_cm": [
+            "endocrinology",
+            "metabolism",
+            "nutrition",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west"
+        ],
+        "tags_department": [
+            "Nutrition & Metaboloc Diseases - nutrition",
+            "metabolism",
+            "food"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "food"
+        ],
+        "tags_location": [
+            "Metabolism Clinic",
+            "Metabolism & Clinical Research",
+            "Research Clinic",
+            "Matabolism & Research Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15509",
+        "clinic_name": "Multidisciplinary Surgery Clinic",
+        "clinic_id": "24",
+        "location_id": "A106",
+        "tags_combined_category_cm": [
+            "surgery",
+            "Colorectal",
+            "endocrine",
+            "bariatric",
+            "acute",
+            "vascular",
+            "pancreatic",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa"
+        ],
+        "tags_department": [
+            "Surgery - bariatric",
+            "acute care"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "care"
+        ],
+        "tags_location": [
+            "Surgey",
+            "Surgery Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15505",
+        "clinic_name": "Multi-Specialty Clinic",
+        "clinic_id": "25",
+        "location_id": "A107",
+        "tags_combined_category_cm": [
+            "internal",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "preventive",
+            "annual physicals",
+            "screenings"
+        ],
+        "tags_department": [
+            "N / A"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "Multi-specialty",
+            "Specialty Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15603",
+        "clinic_name": "Ob/Gyn and Maternal-Fetal Medicine Clinic",
+        "clinic_id": "23",
+        "location_id": "A132",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "endometriosis",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "obgyn",
+            "hysterectomy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "labor delivery",
+            "prenatal",
+            "pregnancy",
+            "menopause"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "Obstetrics & Gynecology - obgyn",
+            "pain",
+            "pregnancy",
+            "ovarian",
+            "bleeding",
+            "women's health",
+            "vagina"
+        ],
+        "tags_location": [
+            "Ob/Gyn",
+            "Ob/Gyn Clinic",
+            "Maternal-fetal Medicine",
+            "Maternal Medicine",
+            "Fetal Medicine",
+            "Maternal Clinic",
+            "Fetal Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15891",
+        "clinic_name": "Occupational Health Clinic",
+        "clinic_id": "300",
+        "location_id": "A125",
+        "tags_combined_category_cm": [
+            "occupational health",
+            "occupational",
+            "5959 Harry Hines",
+            "Professional Office Building 1",
+            "POB1",
+            "HP",
+            "west"
+        ],
+        "tags_department": [
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "Occupational Health",
+            "Health Clinic",
+            "Occupational Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15496",
+        "clinic_name": "Orthopaedic Clinic - Sports Medicine",
+        "clinic_id": "92",
+        "location_id": "A112",
+        "tags_combined_category_cm": [
+            "orthopedics",
+            "orthopaedics",
+            "surgery",
+            "general orthopedic",
+            "ortho",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "bones",
+            "sports",
+            "podiatry",
+            "fracture",
+            "spine",
+            "orthopedic",
+            "pt"
+        ],
+        "tags_department": [
+            "Orthopaedic Surgery - hip",
+            "knee",
+            "bones",
+            "wrist",
+            "elbow",
+            "foot",
+            "ankle",
+            "fracture",
+            "ortho",
+            "orthopedic",
+            "back",
+            "spine",
+            "shoulder",
+            "sports",
+            "sports medicine",
+            "PT",
+            "diabetic foot",
+            "upper extremities",
+            "podiatry"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "hip",
+            "knee",
+            "wrist",
+            "elbow",
+            "foot",
+            "ankle",
+            "back",
+            "spine",
+            "shoulder",
+            "sports medicine",
+            "PT",
+            "diabetic foot",
+            "upper extremities"
+        ],
+        "tags_location": [
+            "Ortho",
+            "Ortho Clinic",
+            "Orthopeadic Clinic",
+            "Sports",
+            "Sports Medicine",
+            "Sports Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15501",
+        "clinic_name": "Orthopaedic Surgery Clinic",
+        "clinic_id": "33",
+        "location_id": "A108",
+        "tags_combined_category_cm": [
+            "orthopedics",
+            "orthopaedics",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "bones",
+            "sports",
+            "podiatry",
+            "fracture",
+            "spine",
+            "ortho",
+            "pt"
+        ],
+        "tags_department": [
+            "Orthopaedic Surgery - hip",
+            "knee",
+            "bones",
+            "wrist",
+            "elbow",
+            "foot",
+            "ankle",
+            "fracture",
+            "ortho",
+            "orthopedic",
+            "back",
+            "spine",
+            "shoulder",
+            "sports",
+            "sports medicine",
+            "PT",
+            "diabetic foot",
+            "upper extremities",
+            "podiatry"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "hip",
+            "knee",
+            "wrist",
+            "elbow",
+            "foot",
+            "ankle",
+            "back",
+            "shoulder",
+            "sports medicine",
+            "PT",
+            "diabetic foot",
+            "upper extremities"
+        ],
+        "tags_location": [
+            "Ortho",
+            "Orthopaedic Surgery",
+            "Ortho Clinic",
+            "Surgery Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15703",
+        "clinic_name": "Otolaryngology Clinic",
+        "clinic_id": "34",
+        "location_id": "A171",
+        "tags_combined_category_cm": [
+            "otorhinolaryngology",
+            "ear",
+            "nose",
+            "throat",
+            "audiology",
+            "neurotology",
+            "Clinical Center for Voice Care",
+            "Rhinology",
+            "facial plastics",
+            "head and neck oncology",
+            "2001 Inwood Road",
+            "ent",
+            "speech",
+            "rhinology",
+            "sinus",
+            "tonsils",
+            "hearing",
+            "oto"
+        ],
+        "tags_department": [
+            "Otolaryngology - ear",
+            "nose",
+            "throat",
+            "ENT",
+            "ear nose and throat",
+            "allergies",
+            "balance",
+            "hearing",
+            "ears",
+            "rhinology",
+            "sinus",
+            "vocal cord",
+            "voice",
+            "horarseness",
+            "reflux",
+            "tonsil",
+            "tongue",
+            "audiology",
+            "speech",
+            "HPV",
+            "eye lift"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "allergies",
+            "balance",
+            "hearing",
+            "ears",
+            "sinus",
+            "vocal cord",
+            "voice",
+            "horarseness",
+            "reflux",
+            "tongue",
+            "HPV",
+            "eye lift"
+        ],
+        "tags_location": [
+            "Otolaryngology",
+            "Clinic"
+        ]
+    },
+    {
+        "gozio_id": "12862",
+        "clinic_name": "Outpatient Imaging",
+        "clinic_id": "271",
+        "location_id": "A103",
+        "tags_combined_category_cm": [
+            "radiology",
+            "imaging",
+            "2201 Inwood Road",
+            "north",
+            "bill",
+            "rita",
+            "ne building",
+            "clements",
+            "scans",
+            "mri",
+            "ct",
+            "xray",
+            "mammogram"
+        ],
+        "tags_department": [
+            "Radiology - imaging",
+            "scans",
+            "MRI",
+            "CT",
+            "x-ray",
+            "mammogram",
+            "mammo"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "mammo"
+        ],
+        "tags_location": [
+            "Outpatient",
+            "Imaging"
+        ]
+    },
+    {
+        "gozio_id": "15504",
+        "clinic_name": "Pancreatic Cancer Prevention Program",
+        "clinic_id": "318",
+        "location_id": "A119",
+        "tags_combined_category_cm": [
+            "urology",
+            "urinary",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "radiation",
+            "oncology",
+            "pancreas"
+        ],
+        "tags_department": [
+            "Urology - prostrate",
+            "male",
+            "urinary",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction",
+            "Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "prostrate",
+            "male",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "Pancreatic",
+            "Pancreatic Cancer",
+            "Cancer Prevention",
+            "Pancreatic Cancer Prevention"
+        ]
+    },
+    {
+        "gozio_id": "12823",
+        "clinic_name": "Pelvic Floor Program",
+        "clinic_id": "203",
+        "location_id": "A116",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "urogynecology",
+            "urinary",
+            "1801 Inwood Road",
+            "fecal",
+            "incontinence",
+            "constipation",
+            "outpatient",
+            "west",
+            "wa"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina"
+        ],
+        "tags_location": [
+            "Pelvic Floor",
+            "Pelvic Program"
+        ]
+    },
+    {
+        "gozio_id": "12826",
+        "clinic_name": "Plastic Surgery Clinic - Facial Paralysis",
+        "clinic_id": "150",
+        "location_id": "A114",
+        "tags_combined_category_cm": [
+            "plastic",
+            "reconstructive surgery",
+            "bells palsy",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "augmentation",
+            "tummy tuck",
+            "rosacea",
+            "makeover",
+            "enhancement",
+            "contouring"
+        ],
+        "tags_department": [
+            "Plastic Surgery - skin",
+            "plastics",
+            "cosmetic",
+            "face",
+            "facial",
+            "bell's palsy",
+            "body",
+            "body contouring",
+            "acne",
+            "rosacea",
+            "lift",
+            "makeover",
+            "tuck",
+            "tummy",
+            "enhancement",
+            "augmentation"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "skin",
+            "plastics",
+            "cosmetic",
+            "face",
+            "facial",
+            "bell's palsy",
+            "body",
+            "body contouring",
+            "acne",
+            "lift",
+            "tuck",
+            "tummy"
+        ],
+        "tags_location": [
+            "Plastic Surgery",
+            "Surgery Clinic",
+            "Facial Paralysis",
+            "Facial Surgery Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15774",
+        "clinic_name": "Plastic Surgery Clinic",
+        "clinic_id": "36",
+        "location_id": "A109",
+        "tags_combined_category_cm": [
+            "plastic",
+            "reconstructive surgery",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "bells palsy",
+            "augmentation",
+            "enhancement",
+            "rosacea",
+            "contouring"
+        ],
+        "tags_department": [
+            "Plastic Surgery - skin",
+            "plastics",
+            "cosmetic",
+            "face",
+            "facial",
+            "bell's palsy",
+            "body",
+            "body contouring",
+            "acne",
+            "rosacea",
+            "lift",
+            "makeover",
+            "tuck",
+            "tummy",
+            "enhancement",
+            "augmentation"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "skin",
+            "cosmetic",
+            "face",
+            "facial",
+            "bell's palsy",
+            "body",
+            "body contouring",
+            "acne",
+            "lift",
+            "makeover",
+            "tuck",
+            "tummy"
+        ],
+        "tags_location": [
+            "Plastic Surgery",
+            "Surgery Clinic"
+        ]
+    },
+    {
+        "gozio_id": "12816",
+        "clinic_name": "Plastic Surgery Resident Cosmetic Clinic",
+        "clinic_id": "409",
+        "location_id": "A122",
+        "tags_combined_category_cm": [
+            "plastic",
+            "reconstructive surgery",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "bells palsy",
+            "augmentation",
+            "enhancement",
+            "rosacea",
+            "contouring",
+            "makeover"
+        ],
+        "tags_department": [
+            "Plastic Surgery - skin",
+            "plastics",
+            "cosmetic",
+            "face",
+            "facial",
+            "bell's palsy",
+            "body",
+            "body contouring",
+            "acne",
+            "rosacea",
+            "lift",
+            "makeover",
+            "tuck",
+            "tummy",
+            "enhancement",
+            "augmentation"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "skin",
+            "cosmetic",
+            "face",
+            "facial",
+            "body",
+            "body contouring",
+            "acne",
+            "lift",
+            "tuck",
+            "tummy"
+        ],
+        "tags_location": [
+            "Plastic Surgery",
+            "Plastic Surgery Clinic",
+            "Cosmetic Surgery Clinic",
+            "Cosmetic Clinic"
+        ]
+    },
+    {
+        "gozio_id": "12864",
+        "clinic_name": "Positron Emission Tomography (PET) Imaging Facility",
+        "clinic_id": "48",
+        "location_id": "A101",
+        "tags_combined_category_cm": [
+            "radiology",
+            "imaging",
+            "ECAT",
+            "CT",
+            "CT scan",
+            "2201 Inwood Road",
+            "north",
+            "bill",
+            "rita",
+            "ne building",
+            "clements",
+            "scans",
+            "mri",
+            "ct",
+            "xray",
+            "mammogram"
+        ],
+        "tags_department": [
+            "Radiology - imaging",
+            "scans",
+            "MRI",
+            "CT",
+            "x-ray",
+            "mammogram",
+            "mammo"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "mammo"
+        ],
+        "tags_location": [
+            "PET",
+            "Imaging",
+            "Imaging Facility",
+            "Tomography"
+        ]
+    },
+    {
+        "gozio_id": "12863",
+        "clinic_name": "The Mary Nell and Ralph B. Rogers Magnetic Resonance Imaging Center",
+        "clinic_id": "49",
+        "location_id": "A102",
+        "tags_combined_category_cm": [
+            "radiology",
+            "imaging",
+            "MRI",
+            "Philips",
+            "2201 Inwood Road",
+            "north",
+            "bill",
+            "rita",
+            "clements",
+            "ne building",
+            "scans",
+            "mri",
+            "ct",
+            "xray",
+            "mammogram"
+        ],
+        "tags_department": [
+            "Radiology - imaging",
+            "scans",
+            "MRI",
+            "CT",
+            "x-ray",
+            "mammogram",
+            "mammo"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "scans",
+            "mammo"
+        ],
+        "tags_location": [
+            "Imaging Center",
+            "Magnetic Resonance",
+            ""
+        ]
+    },
+    {
+        "gozio_id": "15406",
+        "clinic_name": "UH SCC Cardio-Oncology Program",
+        "clinic_id": "412",
+        "location_id": "A169",
+        "tags_combined_category_cm": [
+            "cardiology",
+            "heart",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "congestive",
+            "angina",
+            "chest",
+            "afib",
+            "cardio",
+            "cardiac"
+        ],
+        "tags_department": [
+            "Cardiology - cardiac",
+            "heart",
+            "chest pain",
+            "heart valve",
+            "angio",
+            "interventional",
+            "congestive",
+            "angina",
+            "heart attack",
+            "blood pressure",
+            "afib"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "pain",
+            "heart valve",
+            "angio",
+            "interventional",
+            "heart attack",
+            "blood pressure"
+        ],
+        "tags_location": [
+            "UH SCC",
+            "Cardio-oncology",
+            "Cardio-oncology Program"
+        ]
+    },
+    {
+        "gozio_id": "15436",
+        "clinic_name": "University Hospital Bone Marrow Transplantation/Hematologic Malignancies Clinic",
+        "clinic_id": "55",
+        "location_id": "A144",
+        "tags_combined_category_cm": [
+            "hematology",
+            "blood",
+            "cancer",
+            "BMT",
+            "oncology",
+            "leukemia",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "hem onc",
+            "hematology oncology",
+            "hema"
+        ],
+        "tags_department": [
+            "Hematology-Oncology - blood cancer",
+            "hem onc",
+            "oncology",
+            "medical oncologist",
+            "cancer",
+            "bone marrow",
+            "leukemia",
+            "BMT"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "medical oncologist",
+            "bone marrow"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Bone Marrow",
+            "Bone Marrow Transplant",
+            "Tansplant Clinic",
+            "Hematologic Malignancies",
+            "Bone Marrow Transplant Clinic",
+            "Hematologic Malignancies Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15407",
+        "clinic_name": "University Hospital Breast Imaging Services",
+        "clinic_id": "272",
+        "location_id": "A164",
+        "tags_combined_category_cm": [
+            "radiology",
+            "imaging",
+            "2201 Inwood Road",
+            "north",
+            "seay",
+            "nc",
+            "biomedical",
+            "scans",
+            "mri",
+            "ct",
+            "xray",
+            "mammogram",
+            "mammo"
+        ],
+        "tags_department": [
+            "Radiology - imaging",
+            "scans",
+            "MRI",
+            "CT",
+            "x-ray",
+            "mammogram",
+            "mammo"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Breast Imaging",
+            "Breast Imaging Services"
+        ]
+    },
+    {
+        "gozio_id": "12788",
+        "clinic_name": "University Hospital Center for Breast Care - Medical Oncology",
+        "clinic_id": "57",
+        "location_id": "A145",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "cancer",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "obgyn",
+            "radiation",
+            "med onc",
+            "medonc"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Breast",
+            "Breat Care",
+            "Medical OnclogyBreast Oncology",
+            "Medical Oncology"
+        ]
+    },
+    {
+        "gozio_id": "15414",
+        "clinic_name": "University Hospital Center for Breast Care - Surgical Oncology",
+        "clinic_id": "97",
+        "location_id": "A148",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "cancer",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "obgyn",
+            "radiation",
+            "med onc",
+            "medonc"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer / Surgery - bariatric",
+            "acute care"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina",
+            "rad onc",
+            "oncologist",
+            "surgery",
+            "bariatric",
+            "acute care"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Breast",
+            "Breat Care",
+            "Medical Onclogy",
+            "Breast Oncology",
+            "Surgical Oncology"
+        ]
+    },
+    {
+        "gozio_id": "15437",
+        "clinic_name": "University Hospital Gynecologic Oncology Clinic",
+        "clinic_id": "58",
+        "location_id": "A146",
+        "tags_combined_category_cm": [
+            "obstetrics",
+            "gynecology",
+            "OB/GYN",
+            "cancer",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "radiation",
+            "obgyn",
+            "endometriosis",
+            "hysterectomy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "ovarian",
+            "pelvic pain"
+        ],
+        "tags_department": [
+            "Obstetrics & Gynecology - obgyn",
+            "ob/gyn",
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "endometriosis",
+            "pelvic pain",
+            "menopause",
+            "pregnancy",
+            "contraception",
+            "fertility",
+            "infertility",
+            "gynecology",
+            "ovarian",
+            "bleeding",
+            "prenatal",
+            "hysterectomy",
+            "women's health",
+            "vagina / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "labor and delivery",
+            "l&d",
+            "babies",
+            "baby",
+            "well-women",
+            "periods",
+            "menopause",
+            "pregnancy",
+            "bleeding",
+            "prenatal",
+            "women's health",
+            "vagina",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Gyno",
+            "Gynecologic Oncology",
+            ""
+        ]
+    },
+    {
+        "gozio_id": "15604",
+        "clinic_name": "University Hospital Heart and Lung Clinic",
+        "clinic_id": "41",
+        "location_id": "A133",
+        "tags_combined_category_cm": [
+            "cardiology",
+            "heart",
+            "transplant",
+            "hypertension",
+            "pulmonary",
+            "lung",
+            "asthma",
+            "breathing",
+            "embolism",
+            "respiratory",
+            "angina",
+            "congestive",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "chest pain",
+            "cardio",
+            "cardiac",
+            "afib"
+        ],
+        "tags_department": [
+            "Cardiology - cardiac",
+            "heart",
+            "chest pain",
+            "heart valve",
+            "angio",
+            "interventional",
+            "congestive",
+            "angina",
+            "heart attack",
+            "blood pressure",
+            "afib / Pulmonary and Critical Care Medicine - lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respratory"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "valve",
+            "angio",
+            "interventional",
+            "heart attack",
+            "blood pressure",
+            "Critical Care Medicine"
+        ],
+        "tags_location": [
+            "Unbiversity Hospital",
+            "Heart Clinic",
+            "Lung Clinic",
+            "Heart & Lung"
+        ]
+    },
+    {
+        "gozio_id": "15434",
+        "clinic_name": "University Hospital Infusion Clinic",
+        "clinic_id": "275",
+        "location_id": "A165",
+        "tags_combined_category_cm": [
+            "infusion therapy",
+            "radiation",
+            "oncology",
+            "cancer",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north"
+        ],
+        "tags_department": [
+            "Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Infusion Clinic",
+            "Infusioon"
+        ]
+    },
+    {
+        "gozio_id": "15598",
+        "clinic_name": "University Hospital Kidney and Liver Transplant Clinic",
+        "clinic_id": "59",
+        "location_id": "A135",
+        "tags_combined_category_cm": [
+            "kidney",
+            "liver",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "hq",
+            "west",
+            "kidney stones"
+        ],
+        "tags_department": [
+            "Nephrology - kidney",
+            "liver",
+            "transplant",
+            "kidney stones"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "transplant"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Kidney Transplant",
+            "Kidney Clinic",
+            "Kidney Transplant Clinic",
+            "Liver Transplant",
+            "Liver Clinic",
+            "Liver Transplant Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15815",
+        "clinic_name": "University Hospital Medical & Surgical Oncology Clinic - Pancreatic Multidisciplinary Program",
+        "clinic_id": "327",
+        "location_id": "A168",
+        "tags_combined_category_cm": [
+            "urology",
+            "urinary",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "med onc",
+            "surg onc",
+            "pancreas",
+            "cancer",
+            "medonc",
+            "surgonc"
+        ],
+        "tags_department": [
+            "Urology - prostrate",
+            "male",
+            "urinary",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "prostrate",
+            "male",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Medical & Surgical Oncology",
+            "Pancreatic",
+            "Pancreatic Multidisciplinary Program"
+        ]
+    },
+    {
+        "gozio_id": "12783",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Bone",
+        "clinic_id": "99",
+        "location_id": "A150",
+        "tags_combined_category_cm": [
+            "hematology",
+            "blood",
+            "2201 Inwood Road",
+            "BMT",
+            "radiation",
+            "cancer",
+            "leukemia",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "hem onc",
+            "hematology oncology",
+            "med onc",
+            "medonc",
+            "hema"
+        ],
+        "tags_department": [
+            "Hematology-Oncology - blood cancer",
+            "hem onc",
+            "oncology",
+            "medical oncologist",
+            "cancer",
+            "bone marrow",
+            "leukemia",
+            "BMT / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "medical oncologist",
+            "marrow",
+            "BMT",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Bone",
+            "Bone Oncology"
+        ]
+    },
+    {
+        "gozio_id": "15411",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Brain",
+        "clinic_id": "100",
+        "location_id": "A151",
+        "tags_combined_category_cm": [
+            "neurology",
+            "nervous",
+            "brain",
+            "spine",
+            "alzheimers",
+            "parkinsons",
+            "seizures",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "cancer",
+            "med onc",
+            "radiation",
+            "epilepsy",
+            "medonc"
+        ],
+        "tags_department": [
+            "Neurology - neuro",
+            "spine",
+            "spinal",
+            "brain",
+            "brain tumor",
+            "headache",
+            "epilepsy",
+            "alzheimers",
+            "parkinsons",
+            "seizures / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "neuro",
+            "spinal",
+            "tumor",
+            "headache",
+            "seizures  rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Brain",
+            "Brain Oncology"
+        ]
+    },
+    {
+        "gozio_id": "15413",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Cancer Genetics",
+        "clinic_id": "133",
+        "location_id": "A162",
+        "tags_combined_category_cm": [
+            "oncology",
+            "cancer",
+            "heredity",
+            "radiation",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "med onc",
+            "clinical genetics",
+            "medonc"
+        ],
+        "tags_department": [
+            "Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer/ Clinical Genetics - genese",
+            "heredity"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "rad onc",
+            "oncologist",
+            "genes"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Cancer Genetics"
+        ]
+    },
+    {
+        "gozio_id": "12776",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Esophageal",
+        "clinic_id": "107",
+        "location_id": "A157",
+        "tags_combined_category_cm": [
+            "otorhinolaryngology",
+            "ear",
+            "nose",
+            "throat",
+            "esophagus",
+            "2201 Inwood Road",
+            "radiation",
+            "cancer",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "Otolaryngology",
+            "med onc",
+            "medonc"
+        ],
+        "tags_department": [
+            "Otolaryngology - ear",
+            "nose",
+            "throat",
+            "ENT",
+            "ear nose and throat",
+            "allergies",
+            "balance",
+            "hearing",
+            "ears",
+            "rhinology",
+            "sinus",
+            "vocal cord",
+            "voice",
+            "horarseness",
+            "reflux",
+            "tonsil",
+            "tongue",
+            "audiology",
+            "speech",
+            "HPV",
+            "eye lift / Radition Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "allergies",
+            "balance",
+            "hearing",
+            "ears",
+            "rhinology",
+            "sinus",
+            "vocal cord",
+            "voice",
+            "horarseness",
+            "reflux",
+            "tonsil",
+            "tongue",
+            "audiology",
+            "speech",
+            "HPV",
+            "eye lift",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Esophageal",
+            "Esophageal Oncology"
+        ]
+    },
+    {
+        "gozio_id": "12781",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Gastrointestinal",
+        "clinic_id": "101",
+        "location_id": "A152",
+        "tags_combined_category_cm": [
+            "gastroenterology",
+            "hepatology",
+            "digestive",
+            "2201 Inwood Road",
+            "surgery",
+            "bariatic",
+            "acute",
+            "radiation",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "cancer",
+            "med onc",
+            "colonoscopy",
+            "pancreas",
+            "celiac",
+            "liver",
+            "stomach",
+            "endoscopy",
+            "gut",
+            "medonc",
+            "gi"
+        ],
+        "tags_department": [
+            "Digestive & Liver Diseases - gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "GI",
+            "gastroenterology",
+            "\"stomach stomach\"",
+            "fatty liver",
+            "endoscopy",
+            "colonoscopy",
+            "pancreas",
+            "pancreatic",
+            "celiac / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer  (AC - is this meant to say \"stomach stomach\" and why is this in \"\"?)"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "fatty",
+            "colonoscopy",
+            "pancreatic",
+            "celiac",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Gastrointestinal",
+            "Gastrointestinal Oncology",
+            "Medical oncology"
+        ]
+    },
+    {
+        "gozio_id": "12779",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Genitourinary",
+        "clinic_id": "103",
+        "location_id": "A154",
+        "tags_combined_category_cm": [
+            "urology",
+            "urinary",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "radiation",
+            "cancer",
+            "med onc",
+            "bladder",
+            "medonc"
+        ],
+        "tags_department": [
+            "Urology - prostrate",
+            "male",
+            "urinary",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "prostrate",
+            "male",
+            "incontinence",
+            "sexual dysfunction",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Genitourinary",
+            "Genitourinary Oncology"
+        ]
+    },
+    {
+        "gozio_id": "12778",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Head & Neck",
+        "clinic_id": "104",
+        "location_id": "A155",
+        "tags_combined_category_cm": [
+            "neurology",
+            "nervous",
+            "brain",
+            "spine",
+            "medical oncologist",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "radiation",
+            "cancer",
+            "med onc",
+            "medonc"
+        ],
+        "tags_department": [
+            "Neurology - neuro",
+            "spine",
+            "spinal",
+            "brain",
+            "brain tumor",
+            "headache",
+            "epilepsy",
+            "alzheimers",
+            "parkinsons",
+            "seizures / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "neuro",
+            "spinal",
+            "brain tumor",
+            "headache",
+            "epilepsy",
+            "alzheimers",
+            "parkinsons",
+            "seizures rad onc",
+            "oncology",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Head",
+            "Neck",
+            "Head & Neck"
+        ]
+    },
+    {
+        "gozio_id": "12777",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Lung",
+        "clinic_id": "105",
+        "location_id": "A156",
+        "tags_combined_category_cm": [
+            "pulmonology",
+            "lungs",
+            "respiratory",
+            "breathing",
+            "medical oncologist",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "cancer",
+            "med onc",
+            "pulmonary embolism",
+            "asthma",
+            "chest",
+            "medonc"
+        ],
+        "tags_department": [
+            "Pulmonary & Critical Care Medicine - lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respiratory"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Lung",
+            "Lung Oncology"
+        ]
+    },
+    {
+        "gozio_id": "15432",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Melanoma/Sarcoma (Dallas) - Suite 116",
+        "clinic_id": "-1",
+        "location_id": "A147",
+        "tags_combined_category_cm": [
+            "dermatology",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "radiation",
+            "cancer",
+            "med onc",
+            "eczema",
+            "psoriasis",
+            "rosacea",
+            "skin",
+            "acne",
+            "lupus",
+            "basal cell",
+            "pigmentary",
+            "moles"
+        ],
+        "tags_department": [
+            "Dermatology",
+            "derm",
+            "skin",
+            "basal cell",
+            "lupus",
+            "pigmentary",
+            "hair",
+            "acne",
+            "Radiation Oncology",
+            "rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "derm",
+            "hair",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Melanoma",
+            "Melanoma Clinic",
+            "Medical Oncology"
+        ]
+    },
+    {
+        "gozio_id": "15430",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Oncology Rehabilitation",
+        "clinic_id": "116",
+        "location_id": "A159",
+        "tags_combined_category_cm": [
+            "physical therapy",
+            "rehabilitation",
+            "cancer",
+            "pt",
+            "pmr",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "radiation",
+            "pain management",
+            "med onc",
+            "occupational",
+            "ot",
+            "speech",
+            "st",
+            "rehab",
+            "medonc"
+        ],
+        "tags_department": [
+            "oncologist",
+            "Physical Medicine",
+            "recover",
+            "rehab",
+            "inpatient rehab",
+            "outpatient rehab"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "recover",
+            "inpatient rehab",
+            "outpatient rehab"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Onology Rehabilitation",
+            "Rehab",
+            "Rehabillitation"
+        ]
+    },
+    {
+        "gozio_id": "15422",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Physical Therapy",
+        "clinic_id": "302",
+        "location_id": "A167",
+        "tags_combined_category_cm": [
+            "physical therapy",
+            "rehabilitation",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "cancer",
+            "pt",
+            "pmr",
+            "pain management",
+            "rehabilitation",
+            "rehab",
+            "physical medicine",
+            "med onc",
+            "occupational",
+            "ot",
+            "speech",
+            "st",
+            "medonc"
+        ],
+        "tags_department": [
+            "Physical Medicine",
+            "recover",
+            "inpatient rehab",
+            "outpatient rehab"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "Physical Medicine",
+            "recover",
+            "inpatient rehab",
+            "outpatient rehab"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Physical Therapy",
+            "PT"
+        ]
+    },
+    {
+        "gozio_id": "12770",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Pulmonary",
+        "clinic_id": "191",
+        "location_id": "A163",
+        "tags_combined_category_cm": [
+            "pulmonology",
+            "lungs",
+            "respiratory",
+            "breathing",
+            "surgical oncologist",
+            "lung",
+            "2201 Inwood Road",
+            "med onc",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "cancer",
+            "pulmonary embolism",
+            "asthma",
+            "chest",
+            "medonc"
+        ],
+        "tags_department": [
+            "Pulmonary & Critical Care Medicine - lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respiratory"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Pulmonary"
+        ]
+    },
+    {
+        "gozio_id": "12775",
+        "clinic_name": "University Hospital Medical Oncology Clinic - Supportive and Palliative Care Clinic",
+        "clinic_id": "114",
+        "location_id": "A158",
+        "tags_combined_category_cm": [
+            "geriatics",
+            "elderly",
+            "fragility",
+            "POSH",
+            "cancer",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "med onc"
+        ],
+        "tags_department": [
+            "Geriatic Medicine - elders",
+            "geriatrics",
+            "fragility",
+            "palliative",
+            "acute care for elders",
+            "POSH"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "geriatrics",
+            "fragility",
+            "palliative",
+            "acute care for elders",
+            "elders"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Supportive Care",
+            "Pallatove Care",
+            "Supportiove Clinic",
+            "Pallative Clinic",
+            "Supportive & Pallative Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15499",
+        "clinic_name": "University Hospital Outpatient Imaging Services - CT Cardiac Screening",
+        "clinic_id": "257",
+        "location_id": "A117",
+        "tags_combined_category_cm": [
+            "cardiology",
+            "heart",
+            "angina",
+            "congestive",
+            "chest",
+            "afib",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "radiology"
+        ],
+        "tags_department": [
+            "Cardiology - cardiac",
+            "heart",
+            "chest pain",
+            "heart valve",
+            "angio",
+            "interventional",
+            "congestive",
+            "angina",
+            "heart attack",
+            "blood pressure",
+            "afib"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "chest pain",
+            "heart valve",
+            "angio",
+            "interventional",
+            "angina",
+            "heart attack",
+            "blood pressure"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Outpatient Imaging Services",
+            "Outpatient Imaging",
+            "Imaging Services",
+            "Cardiac",
+            "CT Screening",
+            "Cardiac Screening"
+        ]
+    },
+    {
+        "gozio_id": "12827",
+        "clinic_name": "University Hospital Outpatient Imaging Services - CT Lung Screening",
+        "clinic_id": "132",
+        "location_id": "A113",
+        "tags_combined_category_cm": [
+            "pulmonology",
+            "lungs",
+            "respiratory",
+            "breathing",
+            "radiology",
+            "1801 Inwood Road",
+            "outpatient",
+            "west",
+            "wa",
+            "pulmonary embolism",
+            "asthma"
+        ],
+        "tags_department": [
+            "Pulmonary & Critical Care Medicine - lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respiratory"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Outpatient Imaging Services",
+            "Outpatient Imaging",
+            "Imaging Services",
+            "Lung",
+            "CT Screening",
+            "Lung Screeening"
+        ]
+    },
+    {
+        "gozio_id": "15497",
+        "clinic_name": "University Hospital Outpatient Laboratory",
+        "clinic_id": "283",
+        "location_id": "A118",
+        "tags_combined_category_cm": [
+            "laboratory",
+            "pathology",
+            "1801 Inwood Road",
+            "west",
+            "wa",
+            "labs"
+        ],
+        "tags_department": [
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Outpatient Laboratory"
+        ]
+    },
+    {
+        "gozio_id": "15535",
+        "clinic_name": "University Hospital Outpatient Laboratory",
+        "clinic_id": "284",
+        "location_id": "A123",
+        "tags_combined_category_cm": [
+            "laboratory",
+            "pathology",
+            "5959 Harry Hines",
+            "Professional Office Building 1",
+            "POB1",
+            "HP",
+            "west",
+            "labs"
+        ],
+        "tags_department": [
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "Universiy Hospital",
+            "Outpatient Laboratory",
+            "Laboratory"
+        ]
+    },
+    {
+        "gozio_id": "15435",
+        "clinic_name": "University Hospital Outpatient Laboratory",
+        "clinic_id": "285",
+        "location_id": "A166",
+        "tags_combined_category_cm": [
+            "laboratory",
+            "pathology",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "labs"
+        ],
+        "tags_department": [
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Utpatient",
+            "Outpatient Laboratory"
+        ]
+    },
+    {
+        "gozio_id": "15534",
+        "clinic_name": "University Hospital Outpatient Surgery Center",
+        "clinic_id": "374",
+        "location_id": "A121",
+        "tags_combined_category_cm": [
+            "surgery",
+            "acute",
+            "1801 Inwood Road",
+            "west",
+            "wa",
+            "bariatric"
+        ],
+        "tags_department": [
+            "Surgery - bariatric",
+            "acute care"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "care"
+        ],
+        "tags_location": [
+            "University Haospital",
+            "Outpatient Surgery",
+            "Surgery Center"
+        ]
+    },
+    {
+        "gozio_id": "15539",
+        "clinic_name": "University Hospital Physical Medicine and Rehabilitation Clinic",
+        "clinic_id": "293",
+        "location_id": "A124",
+        "tags_combined_category_cm": [
+            "physical therapy",
+            "rehabilitation",
+            "5959 Harry Hines",
+            "Professional Office Building 1",
+            "POB1",
+            "HP",
+            "west",
+            "pt",
+            "pmr",
+            "pain management",
+            "rehab",
+            "occupational",
+            "ot",
+            "speech",
+            "st"
+        ],
+        "tags_department": [
+            "Physical Medicine",
+            "recover",
+            "inpatient rehab",
+            "outpatient rehab"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "Physical Medicine",
+            "recover",
+            "inpatient rehab",
+            "outpatient rehab"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Physical Medicine",
+            "Rehabilitation Clinic"
+        ]
+    },
+    {
+        "gozio_id": "12712",
+        "clinic_name": "University Hospital Radiation Oncology Clinic",
+        "clinic_id": "52",
+        "location_id": "A143",
+        "tags_combined_category_cm": [
+            "oncology",
+            "cancer",
+            "rad onc",
+            "5801 Forest Park Road",
+            "NF",
+            "radonc",
+            "monty"
+        ],
+        "tags_department": [
+            "Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Radiation Clinic",
+            "Radiation Oncology",
+            "Oncology Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15892",
+        "clinic_name": "University Hospital Radiology Clinic",
+        "clinic_id": "425",
+        "location_id": "A126",
+        "tags_combined_category_cm": [
+            "radiology",
+            "imaging",
+            "5959 Harry Hines",
+            "Professional Office Building 1",
+            "POB1",
+            "HP",
+            "west",
+            "scans",
+            "MRI",
+            "CT",
+            "x-ray",
+            "mammogram",
+            "mammo",
+            "xray"
+        ],
+        "tags_department": [
+            "Radiology - imaging",
+            "scans",
+            "MRI",
+            "CT",
+            "x-ray",
+            "mammogram",
+            "mammo"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            ""
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Radiology Clinic",
+            "Radiology"
+        ]
+    },
+    {
+        "gozio_id": "15580",
+        "clinic_name": "University Hospital Sleep and Breathing Disorders Clinic",
+        "clinic_id": "54",
+        "location_id": "A134",
+        "tags_combined_category_cm": [
+            "pulmonology",
+            "lungs",
+            "respiratory",
+            "breathing",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "asthma",
+            "insomnia"
+        ],
+        "tags_department": [
+            "Pulmonary & Critical Care Medicine - lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respiratory"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "pulmonary embolism"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Sleep Clinic",
+            "Sleep Disorders",
+            "Breathing Disorders",
+            "Breathing Clinic",
+            "Sleep & Breathing Clinic"
+        ]
+    },
+    {
+        "gozio_id": "12780",
+        "clinic_name": "University Hospital Surgical Oncology Clinic - Gastrointestinal",
+        "clinic_id": "102",
+        "location_id": "A153",
+        "tags_combined_category_cm": [
+            "gastroenterology",
+            "hepatology",
+            "digestive",
+            "2201 Inwood Road",
+            "surgery",
+            "bariatic",
+            "acute",
+            "radiation",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "cancer",
+            "colonoscopy",
+            "pancreas",
+            "celiac",
+            "liver",
+            "stomach",
+            "endoscopy",
+            "surg onc",
+            "gut",
+            "surgonc",
+            "gi"
+        ],
+        "tags_department": [
+            "Digestive & Liver Diseases - gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "GI",
+            "gastroenterology",
+            "\"stomach stomach\"",
+            "fatty liver",
+            "endoscopy",
+            "colonoscopy",
+            "pancreas",
+            "pancreatic",
+            "celiac / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer / Surgery - bariatric",
+            "acute care"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "fatty",
+            "pancreatic",
+            "celiac",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Gastrointestinal",
+            "Gastrointestinal Oncology",
+            "Gastrointestinal Surgery"
+        ]
+    },
+    {
+        "gozio_id": "12773",
+        "clinic_name": "University Hospital Surgical Oncology Clinic - Hepatocellular Carcinoma",
+        "clinic_id": "122",
+        "location_id": "A160",
+        "tags_combined_category_cm": [
+            "gastroenterology",
+            "hepatology",
+            "digestive",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "surgery",
+            "radiation",
+            "cancer",
+            "liver",
+            "fatty",
+            "cirrhosis",
+            "hepatitis",
+            "gut",
+            "surg onc",
+            "surgonc"
+        ],
+        "tags_department": [
+            "Digestive & Liver Diseases - gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "GI",
+            "gastroenterology",
+            "\"stomach stomach\"",
+            "fatty liver",
+            "endoscopy",
+            "colonoscopy",
+            "pancreas",
+            "pancreatic",
+            "celiac / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer / Surgery - bariatic",
+            "acute care"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "gastro",
+            "gastrointestinal",
+            "gastroenterologist",
+            "GI",
+            "stomach stomach",
+            "fatty liver",
+            "endoscopy",
+            "colonoscopy",
+            "pancreas",
+            "pancreatic",
+            "celiac",
+            "rad onc",
+            "oncologist",
+            "bariatic",
+            "acute care"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Hepatocellular Carcinoma"
+        ]
+    },
+    {
+        "gozio_id": "15438",
+        "clinic_name": "University Hospital Surgical Oncology Clinic - Melanoma/Sarcoma",
+        "clinic_id": "98",
+        "location_id": "A149",
+        "tags_combined_category_cm": [
+            "dermatology",
+            "cancer",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "surg onc",
+            "radiation",
+            "eczema",
+            "psoriasis",
+            "rosacea",
+            "skin",
+            "acne",
+            "lupus",
+            "basal cell",
+            "pigmentary",
+            "moles"
+        ],
+        "tags_department": [
+            "Dermatology",
+            "derm",
+            "skin",
+            "basal cell",
+            "lupus",
+            "pigmentary",
+            "hair",
+            "acne",
+            "Radiation Oncology",
+            "rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "derm",
+            "hair",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Melanoma",
+            "Melanoma Clinic",
+            "Surgical Oncology"
+        ]
+    },
+    {
+        "gozio_id": "12772",
+        "clinic_name": "University Hospital Surgical Oncology Clinic - Thoracic Surgery",
+        "clinic_id": "129",
+        "location_id": "A161",
+        "tags_combined_category_cm": [
+            "pulmonology",
+            "lungs",
+            "respiratory",
+            "breathing",
+            "cancer",
+            "2201 Inwood Road",
+            "seay",
+            "biomedical",
+            "nc",
+            "north",
+            "acute",
+            "pulmonary",
+            "radiation",
+            "surg onc",
+            "thorax",
+            "chest",
+            "surgonc"
+        ],
+        "tags_department": [
+            "Pulmonary & Critical Care Medicine - lung",
+            "asthma",
+            "pulmonary embolism",
+            "breathing",
+            "respratory / Radiation Oncology - rad onc",
+            "oncology",
+            "oncologist",
+            "cancer"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "asthma",
+            "pulmonary embolism",
+            "respratory",
+            "rad onc",
+            "oncologist"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Oncology Clinic",
+            "Oncology",
+            "Thoracic Surgery"
+        ]
+    },
+    {
+        "gozio_id": "15583",
+        "clinic_name": "University Hospital Wound Care Clinic",
+        "clinic_id": "250",
+        "location_id": "A138",
+        "tags_combined_category_cm": [
+            "orthopedics",
+            "orthopaedics",
+            "surgery",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "wound care"
+        ],
+        "tags_department": [
+            "Orthopaedic Surgery - hip",
+            "knee",
+            "bones",
+            "wrist",
+            "elbow",
+            "foot",
+            "ankle",
+            "fracture",
+            "ortho",
+            "orthopedic",
+            "back",
+            "spine",
+            "shoulder",
+            "sports",
+            "sports medicine",
+            "PT",
+            "diabetic foot",
+            "upper extremities",
+            "podiatry"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "hip",
+            "knee",
+            "bones",
+            "wrist",
+            "elbow",
+            "foot",
+            "ankle",
+            "fracture",
+            "ortho",
+            "orthopedic",
+            "back",
+            "spine",
+            "shoulder",
+            "sports",
+            "sports medicine",
+            "diabetic foot",
+            "upper extremities",
+            "podiatry"
+        ],
+        "tags_location": [
+            "University Hospital",
+            "Wound Care",
+            "Wound Clinic",
+            "Wound Care Clinic"
+        ]
+    },
+    {
+        "gozio_id": "15745",
+        "clinic_name": "Urology Clinic",
+        "clinic_id": "64",
+        "location_id": "A172",
+        "tags_combined_category_cm": [
+            "urology",
+            "urinary",
+            "urinary",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction",
+            "prostate",
+            "2001 Inwood Road",
+            "west",
+            "WCB3"
+        ],
+        "tags_department": [
+            "Urology - prostrate",
+            "male",
+            "urinary",
+            "bladder",
+            "incontinence",
+            "sexual dysfunction"
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "male"
+        ],
+        "tags_location": [
+            "Urology",
+            "Clinic"
+        ]
+    },
+    {
+        "gozio_id": "10005",
+        "clinic_name": "William P. Clements Jr. University Hospital",
+        "clinic_id": "270",
+        "location_id": "A175",
+        "tags_combined_category_cm": [
+            "west",
+            "6201 Harry Hines"
+        ],
+        "tags_department": [
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "Cardiovascular & Thoracic Surgery - cardiac",
+            "heart valve",
+            "minimially invasive",
+            "aortic",
+            "chest",
+            "thorax"
+        ],
+        "tags_location": [
+            "Clements Hospital",
+            "Clements",
+            "CUH",
+            "Hospital",
+            "North Campus"
+        ]
+    },
+    {
+        "gozio_id": "15592",
+        "clinic_name": "William T. and Gay F. Solomon General Internal Medicine Clinic",
+        "clinic_id": "291",
+        "location_id": "A139",
+        "tags_combined_category_cm": [
+            "internal",
+            "5939 Harry Hines",
+            "Professional Office Building 2",
+            "POB2",
+            "HQ",
+            "west",
+            "primary",
+            "gim",
+            "pcp",
+            "primary care",
+            "int med"
+        ],
+        "tags_department": [
+            "General Internal Medicine - internist",
+            "\"general medicine\"",
+            "\"General medicine\"",
+            "internal",
+            "Internal",
+            "internists",
+            "primary care",
+            ""
+        ],
+        "tags_not_in_cm_based_on_location": [
+            "General Internal Medicine",
+            "internists",
+            "general medicine"
+        ],
+        "tags_location": [
+            "Solomon General",
+            "Seneral Internal Medicine",
+            "Internal Medicine",
+            "Internal Medicine Clinic",
+            "Internal Clinic"
+        ]
+    }
+]
