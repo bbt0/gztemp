@@ -1,6 +1,6 @@
 [
     {
-        "gozio_id": "15587",
+        "gozio_id": 15587,
         "search_tags": [
             "allergy",
             "immunology",
@@ -19,7 +19,7 @@
         ]
     },
     {
-        "gozio_id": "12794",
+        "gozio_id": 12794,
         "search_tags": [
             "radiology",
             "imaging",
@@ -37,7 +37,7 @@
         ]
     },
     {
-        "gozio_id": "12708",
+        "gozio_id": 12708,
         "search_tags": [
             "cardiology",
             "heart",
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "gozio_id": "15731",
+        "gozio_id": 15731,
         "search_tags": [
             "cardiology",
             "heart",
@@ -64,7 +64,7 @@
         ]
     },
     {
-        "gozio_id": "15610",
+        "gozio_id": 15610,
         "search_tags": [
             "pulmonology",
             "lungs",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "gozio_id": "15607",
+        "gozio_id": 15607,
         "search_tags": [
             "dermatology",
             "acne",
@@ -101,7 +101,7 @@
         ]
     },
     {
-        "gozio_id": "15514",
+        "gozio_id": 15514,
         "search_tags": [
             "gastroenterology",
             "hepatology",
@@ -119,7 +119,7 @@
         ]
     },
     {
-        "gozio_id": "",
+        "gozio_id": -1,
         "search_tags": [
             "family medicine",
             "5939 Harry Hines",
@@ -132,7 +132,7 @@
         ]
     },
     {
-        "gozio_id": "15513",
+        "gozio_id": 15513,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -150,7 +150,7 @@
         ]
     },
     {
-        "gozio_id": "15511",
+        "gozio_id": 15511,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -168,7 +168,7 @@
         ]
     },
     {
-        "gozio_id": "12830",
+        "gozio_id": 12830,
         "search_tags": [
             "radiology",
             "imaging",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "gozio_id": "15589",
+        "gozio_id": 15589,
         "search_tags": [
             "pediatrics",
             "adolescent",
@@ -200,7 +200,7 @@
         ]
     },
     {
-        "gozio_id": "15674",
+        "gozio_id": 15674,
         "search_tags": [
             "internal",
             "2001 Inwood Road",
@@ -212,7 +212,7 @@
         ]
     },
     {
-        "gozio_id": "15593",
+        "gozio_id": 15593,
         "search_tags": [
             "gastroenterology",
             "hepatology",
@@ -228,7 +228,7 @@
         ]
     },
     {
-        "gozio_id": "15778",
+        "gozio_id": 15778,
         "search_tags": [
             "opthamology",
             "optometry",
@@ -244,7 +244,7 @@
         ]
     },
     {
-        "gozio_id": "15605",
+        "gozio_id": 15605,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -263,7 +263,7 @@
         ]
     },
     {
-        "gozio_id": "12818",
+        "gozio_id": 12818,
         "search_tags": [
             "urology",
             "urinary",
@@ -277,7 +277,7 @@
         ]
     },
     {
-        "gozio_id": "15591",
+        "gozio_id": 15591,
         "search_tags": [
             "geriatics",
             "elderly",
@@ -292,7 +292,7 @@
         ]
     },
     {
-        "gozio_id": "15588",
+        "gozio_id": 15588,
         "search_tags": [
             "endocrinology",
             "metabolism",
@@ -305,7 +305,7 @@
         ]
     },
     {
-        "gozio_id": "15509",
+        "gozio_id": 15509,
         "search_tags": [
             "surgery",
             "Colorectal",
@@ -321,7 +321,7 @@
         ]
     },
     {
-        "gozio_id": "15505",
+        "gozio_id": 15505,
         "search_tags": [
             "internal",
             "1801 Inwood Road",
@@ -334,7 +334,7 @@
         ]
     },
     {
-        "gozio_id": "15603",
+        "gozio_id": 15603,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -357,7 +357,7 @@
         ]
     },
     {
-        "gozio_id": "15891",
+        "gozio_id": 15891,
         "search_tags": [
             "occupational health",
             "occupational",
@@ -369,7 +369,7 @@
         ]
     },
     {
-        "gozio_id": "15496",
+        "gozio_id": 15496,
         "search_tags": [
             "orthopedics",
             "orthopaedics",
@@ -390,7 +390,7 @@
         ]
     },
     {
-        "gozio_id": "15501",
+        "gozio_id": 15501,
         "search_tags": [
             "orthopedics",
             "orthopaedics",
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "gozio_id": "15703",
+        "gozio_id": 15703,
         "search_tags": [
             "otorhinolaryngology",
             "ear",
@@ -431,7 +431,7 @@
         ]
     },
     {
-        "gozio_id": "12862",
+        "gozio_id": 12862,
         "search_tags": [
             "radiology",
             "imaging",
@@ -449,7 +449,7 @@
         ]
     },
     {
-        "gozio_id": "15504",
+        "gozio_id": 15504,
         "search_tags": [
             "urology",
             "urinary",
@@ -463,7 +463,7 @@
         ]
     },
     {
-        "gozio_id": "12823",
+        "gozio_id": 12823,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -480,7 +480,7 @@
         ]
     },
     {
-        "gozio_id": "12826",
+        "gozio_id": 12826,
         "search_tags": [
             "plastic",
             "reconstructive surgery",
@@ -498,7 +498,7 @@
         ]
     },
     {
-        "gozio_id": "15774",
+        "gozio_id": 15774,
         "search_tags": [
             "plastic",
             "reconstructive surgery",
@@ -514,7 +514,7 @@
         ]
     },
     {
-        "gozio_id": "12816",
+        "gozio_id": 12816,
         "search_tags": [
             "plastic",
             "reconstructive surgery",
@@ -531,7 +531,7 @@
         ]
     },
     {
-        "gozio_id": "12864",
+        "gozio_id": 12864,
         "search_tags": [
             "radiology",
             "imaging",
@@ -552,7 +552,7 @@
         ]
     },
     {
-        "gozio_id": "12863",
+        "gozio_id": 12863,
         "search_tags": [
             "radiology",
             "imaging",
@@ -572,7 +572,7 @@
         ]
     },
     {
-        "gozio_id": "15406",
+        "gozio_id": 15406,
         "search_tags": [
             "cardiology",
             "heart",
@@ -590,7 +590,7 @@
         ]
     },
     {
-        "gozio_id": "15436",
+        "gozio_id": 15436,
         "search_tags": [
             "hematology",
             "blood",
@@ -609,7 +609,7 @@
         ]
     },
     {
-        "gozio_id": "15407",
+        "gozio_id": 15407,
         "search_tags": [
             "radiology",
             "imaging",
@@ -627,7 +627,7 @@
         ]
     },
     {
-        "gozio_id": "12788",
+        "gozio_id": 12788,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -645,7 +645,7 @@
         ]
     },
     {
-        "gozio_id": "15414",
+        "gozio_id": 15414,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -663,7 +663,7 @@
         ]
     },
     {
-        "gozio_id": "15437",
+        "gozio_id": 15437,
         "search_tags": [
             "obstetrics",
             "gynecology",
@@ -686,7 +686,7 @@
         ]
     },
     {
-        "gozio_id": "15604",
+        "gozio_id": 15604,
         "search_tags": [
             "cardiology",
             "heart",
@@ -712,7 +712,7 @@
         ]
     },
     {
-        "gozio_id": "15434",
+        "gozio_id": 15434,
         "search_tags": [
             "infusion therapy",
             "radiation",
@@ -726,7 +726,7 @@
         ]
     },
     {
-        "gozio_id": "15598",
+        "gozio_id": 15598,
         "search_tags": [
             "kidney",
             "liver",
@@ -739,7 +739,7 @@
         ]
     },
     {
-        "gozio_id": "15815",
+        "gozio_id": 15815,
         "search_tags": [
             "urology",
             "urinary",
@@ -757,7 +757,7 @@
         ]
     },
     {
-        "gozio_id": "12783",
+        "gozio_id": 12783,
         "search_tags": [
             "hematology",
             "blood",
@@ -778,7 +778,7 @@
         ]
     },
     {
-        "gozio_id": "15411",
+        "gozio_id": 15411,
         "search_tags": [
             "neurology",
             "nervous",
@@ -800,7 +800,7 @@
         ]
     },
     {
-        "gozio_id": "15413",
+        "gozio_id": 15413,
         "search_tags": [
             "oncology",
             "cancer",
@@ -817,7 +817,7 @@
         ]
     },
     {
-        "gozio_id": "12776",
+        "gozio_id": 12776,
         "search_tags": [
             "otorhinolaryngology",
             "ear",
@@ -837,7 +837,7 @@
         ]
     },
     {
-        "gozio_id": "12781",
+        "gozio_id": 12781,
         "search_tags": [
             "gastroenterology",
             "hepatology",
@@ -865,7 +865,7 @@
         ]
     },
     {
-        "gozio_id": "12779",
+        "gozio_id": 12779,
         "search_tags": [
             "urology",
             "urinary",
@@ -882,7 +882,7 @@
         ]
     },
     {
-        "gozio_id": "12778",
+        "gozio_id": 12778,
         "search_tags": [
             "neurology",
             "nervous",
@@ -901,7 +901,7 @@
         ]
     },
     {
-        "gozio_id": "12777",
+        "gozio_id": 12777,
         "search_tags": [
             "pulmonology",
             "lungs",
@@ -922,7 +922,7 @@
         ]
     },
     {
-        "gozio_id": "15432",
+        "gozio_id": 15432,
         "search_tags": [
             "dermatology",
             "2201 Inwood Road",
@@ -945,7 +945,7 @@
         ]
     },
     {
-        "gozio_id": "15430",
+        "gozio_id": 15430,
         "search_tags": [
             "physical therapy",
             "rehabilitation",
@@ -969,7 +969,7 @@
         ]
     },
     {
-        "gozio_id": "15422",
+        "gozio_id": 15422,
         "search_tags": [
             "physical therapy",
             "rehabilitation",
@@ -994,7 +994,7 @@
         ]
     },
     {
-        "gozio_id": "12770",
+        "gozio_id": 12770,
         "search_tags": [
             "pulmonology",
             "lungs",
@@ -1016,7 +1016,7 @@
         ]
     },
     {
-        "gozio_id": "12775",
+        "gozio_id": 12775,
         "search_tags": [
             "geriatics",
             "elderly",
@@ -1032,7 +1032,7 @@
         ]
     },
     {
-        "gozio_id": "15499",
+        "gozio_id": 15499,
         "search_tags": [
             "cardiology",
             "heart",
@@ -1048,7 +1048,7 @@
         ]
     },
     {
-        "gozio_id": "12827",
+        "gozio_id": 12827,
         "search_tags": [
             "pulmonology",
             "lungs",
@@ -1064,7 +1064,7 @@
         ]
     },
     {
-        "gozio_id": "15497",
+        "gozio_id": 15497,
         "search_tags": [
             "laboratory",
             "pathology",
@@ -1075,7 +1075,7 @@
         ]
     },
     {
-        "gozio_id": "15535",
+        "gozio_id": 15535,
         "search_tags": [
             "laboratory",
             "pathology",
@@ -1088,7 +1088,7 @@
         ]
     },
     {
-        "gozio_id": "15435",
+        "gozio_id": 15435,
         "search_tags": [
             "laboratory",
             "pathology",
@@ -1101,7 +1101,7 @@
         ]
     },
     {
-        "gozio_id": "15534",
+        "gozio_id": 15534,
         "search_tags": [
             "surgery",
             "acute",
@@ -1112,7 +1112,7 @@
         ]
     },
     {
-        "gozio_id": "15539",
+        "gozio_id": 15539,
         "search_tags": [
             "physical therapy",
             "rehabilitation",
@@ -1132,7 +1132,7 @@
         ]
     },
     {
-        "gozio_id": "12712",
+        "gozio_id": 12712,
         "search_tags": [
             "oncology",
             "cancer",
@@ -1144,7 +1144,7 @@
         ]
     },
     {
-        "gozio_id": "15892",
+        "gozio_id": 15892,
         "search_tags": [
             "radiology",
             "imaging",
@@ -1163,7 +1163,7 @@
         ]
     },
     {
-        "gozio_id": "15580",
+        "gozio_id": 15580,
         "search_tags": [
             "pulmonology",
             "lungs",
@@ -1179,7 +1179,7 @@
         ]
     },
     {
-        "gozio_id": "12780",
+        "gozio_id": 12780,
         "search_tags": [
             "gastroenterology",
             "hepatology",
@@ -1207,7 +1207,7 @@
         ]
     },
     {
-        "gozio_id": "12773",
+        "gozio_id": 12773,
         "search_tags": [
             "gastroenterology",
             "hepatology",
@@ -1230,7 +1230,7 @@
         ]
     },
     {
-        "gozio_id": "15438",
+        "gozio_id": 15438,
         "search_tags": [
             "dermatology",
             "cancer",
@@ -1253,7 +1253,7 @@
         ]
     },
     {
-        "gozio_id": "12772",
+        "gozio_id": 12772,
         "search_tags": [
             "pulmonology",
             "lungs",
@@ -1275,7 +1275,7 @@
         ]
     },
     {
-        "gozio_id": "15583",
+        "gozio_id": 15583,
         "search_tags": [
             "orthopedics",
             "orthopaedics",
@@ -1289,7 +1289,7 @@
         ]
     },
     {
-        "gozio_id": "15745",
+        "gozio_id": 15745,
         "search_tags": [
             "urology",
             "urinary",
@@ -1304,14 +1304,14 @@
         ]
     },
     {
-        "gozio_id": "10005",
+        "gozio_id": 10005,
         "search_tags": [
             "west",
             "6201 Harry Hines"
         ]
     },
     {
-        "gozio_id": "15592",
+        "gozio_id": 15592,
         "search_tags": [
             "internal",
             "5939 Harry Hines",
