@@ -1,7 +1,7 @@
 {
     "version": 2,
     "number_of_languages": 2,
-    "number_of_instructions": 37,
+    "number_of_instructions": 50,
     "languages": [
         {
             "name": "en",
@@ -53,6 +53,24 @@
                     "icon": 1,
                     "vars": 0,
                     "text": "Re-starting Navigation"
+                },
+                {
+                    "index": 1012,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Calculating new route"
+                },
+                {
+                    "index": 1013,
+                    "icon": 11,
+                    "vars": 0,
+                    "text": "You are heading the wrong way."
+                },
+                {
+                    "index": 1014,
+                    "icon": 11,
+                    "vars": 0,
+                    "text": "You are heading the wrong way. Calculating new route."
                 },
                 {
                     "index": 1,
@@ -135,8 +153,8 @@
                 {
                     "index": 10,
                     "icon": 8,
-                    "vars": 4,
-                    "text": "Continue to ${NEXT_FLOOR}"
+                    "vars": 0,
+                    "text": "Continue Walking"
                 },
                 {
                     "index": 11,
@@ -227,6 +245,66 @@
                     "icon": 8,
                     "vars": 8,
                     "text": "Continue Walking to ${NEXT_BLDG}"
+                },
+                {
+                    "index": 30,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking to Destination"
+                },
+                {
+                    "index": 31,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking through parking area"
+                },
+                {
+                    "index": 32,
+                    "icon": 12,
+                    "vars": 64,
+                    "text": "Take Escalator to the ${NEXT_ESCALATOR}"
+                },
+                {
+                    "index": 33,
+                    "icon": 12,
+                    "vars": 64,
+                    "text": "Take Escalator Down to the ${NEXT_ESCALATOR}"
+                },
+                {
+                    "index": 34,
+                    "icon": 12,
+                    "vars": 64,
+                    "text": "Take Escalator Up to the ${NEXT_ESCALATOR}"
+                },
+                {
+                    "index": 35,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking to Destination"
+                },
+                {
+                    "index": 36,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking to Destination"
+                },
+                {
+                    "index": 37,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking to Destination"
+                },
+                {
+                    "index": 38,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking to Destination"
+                },
+                {
+                    "index": 39,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continue Walking to Destination"
                 }
             ]
         },
@@ -280,6 +358,24 @@
                     "icon": 1,
                     "vars": 0,
                     "text": "Recomenzar navegación"
+                },
+                {
+                    "index": 1012,
+                    "icon": 1,
+                    "vars": 0,
+                    "text": "Recalculando"
+                },
+                {
+                    "index": 1013,
+                    "icon": 11,
+                    "vars": 0,
+                    "text": "Vas por el camino equivocado."
+                },
+                {
+                    "index": 1014,
+                    "icon": 11,
+                    "vars": 0,
+                    "text": "Vas por el camino equivocado, recalculando."
                 },
                 {
                     "index": 1,
@@ -362,8 +458,8 @@
                 {
                     "index": 10,
                     "icon": 8,
-                    "vars": 4,
-                    "text": "Continuar hacia ${NEXT_FLOOR}"
+                    "vars": 0,
+                    "text": "Continuar caminando"
                 },
                 {
                     "index": 11,
@@ -454,6 +550,66 @@
                     "icon": 8,
                     "vars": 8,
                     "text": "Continuar caminando hacia ${NEXT_BLDG}"
+                },
+                {
+                    "index": 30,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando hacia el destino"
+                },
+                {
+                    "index": 31,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando por el área de estacionamiento"
+                },
+                {
+                    "index": 32,
+                    "icon": 12,
+                    "vars": 64,
+                    "text": "Tome la escalera mecánica al nivel ${NEXT_ESCALATOR}"
+                },
+                {
+                    "index": 33,
+                    "icon": 12,
+                    "vars": 64,
+                    "text": "Baje por la escalera mecánica al nivel ${NEXT_ESCALATOR}"
+                },
+                {
+                    "index": 34,
+                    "icon": 12,
+                    "vars": 64,
+                    "text": "Suba por la escalera mecánica al nivel ${NEXT_ESCALATOR}"
+                },
+                {
+                    "index": 35,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando hacia el destino"
+                },
+                {
+                    "index": 36,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando hacia el destino"
+                },
+                {
+                    "index": 37,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando hacia el destino"
+                },
+                {
+                    "index": 38,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando hacia el destino"
+                },
+                {
+                    "index": 39,
+                    "icon": 8,
+                    "vars": 0,
+                    "text": "Continuar caminando hacia el destino"
                 }
             ]
         }
