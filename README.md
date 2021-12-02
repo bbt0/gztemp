@@ -23,10 +23,15 @@ This one actually doesn't have a floor id or poi, but it has a default floor ID 
 
 ---
 
-**CUH-level1-1.pcap**
-???
+**5fac4c991b67cd496bbb055b-CUH-level1.pcap**
+- siteID = 1
+- buildingID = 10
+- floorID = 101
+- poiKey = "pv_uh1_003"
+
+This works when calling `gzmLocationService.addSiteRegion(siteId: 1, hasIps: true, hasOutdoorIps: true, latitude: 32.819, longitude: -96.849, radius: 800, rotation: 0.0)` per the email from Chelsea on 12/1 and 12/2 referencing their support ticket SUPPORT-1199
 
 ---
 
 **CUH-level1-2.pcap**
-???
+??? Unsure
