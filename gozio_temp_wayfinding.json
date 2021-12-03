@@ -1,0 +1,213 @@
+{
+  "nav_icons": {
+    "marker": {
+      "light": "https://img.favpng.com/20/11/24/google-map-maker-google-maps-computer-icons-map-collection-png-favpng-BNWkuCw9tdsBqxLR2PTzGbS6V.jpg",
+      "lightdark": "https://img.favpng.com/20/11/24/google-map-maker-google-maps-computer-icons-map-collection-png-favpng-BNWkuCw9tdsBqxLR2PTzGbS6V.jpg"
+    },
+    "enter": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_enter_building.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_enter_building.png"
+    },
+    "continue": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_continue.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_continue.png"
+    },
+    "arrow_left": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_left.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_left.png"
+    },
+    "arrow_slight_left": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_slight_left.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_slight_left.png"
+    },
+    "arrow_right": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_right.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_right.png"
+    },
+    "arrow_slight_right": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_slight_right.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_slight_right.png"
+    },
+    "arrow_up": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_up.png.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_arrow_up.png.png"
+    },
+    "elevator": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_elevator_simple.png.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_elevator_simple.png.png"
+    },
+    "stairs": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_stairs.png.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_stairs.png.png"
+    },
+    "escalator": {
+      "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_stairs.png.png",
+      "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/nav%20icons/ic_nav_stairs.png.png"
+    }
+  },
+  "header_circle_background_color": {
+    "light": "#00B140",
+    "dark": "#00B140"
+  },
+  "header_text_style": {
+    "size": "large",
+    "weight": "bold",
+    "color": {
+      "light": "#000000",
+      "dark": "#000000"
+    },
+    "lines": -1,
+    "fixed_size": false,
+    "truncation": "none",
+    "auto_resize": false
+  },
+  "bottom_button": {
+    "text": {
+      "value": "Exit",
+      "style": {
+        "size": "default",
+        "weight": "semi_bold",
+        "color": {
+          "light": "#ffffff",
+          "dark": "#ffffff"
+        },
+        "orientation": "center",
+        "lines": 1
+      }
+    },
+    "color": {
+      "light": "#E70000",
+      "dark": "#E70000"
+    },
+    "outlined": false,
+    "type": "solid"
+  },
+  "exit_confirmation": {
+    "header": {
+    },
+    "positive_button": {
+      "text": {
+        "value": "Resume",
+        "style": {
+          "size": "default",
+          "weight": "normal",
+          "color": {
+            "light": "#ffffff",
+            "dark": "#ffffff"
+          },
+          "orientation": "center",
+          "lines": 1
+        }
+      },
+      "color": {
+        "light": "#3399CC",
+        "dark": "#3399CC"
+      },
+      "outlined": false,
+      "type": "solid"
+    },
+    "negative_button": {
+      "text": {
+        "value": "Exit",
+        "style": {
+          "size": "default",
+          "weight": "normal",
+          "color": {
+            "light": "#ffffff",
+            "dark": "#ffffff"
+          },
+          "orientation": "center",
+          "lines": 1
+        }
+      },
+      "color": {
+        "light": "#E70000",
+        "dark": "#E70000"
+      },
+      "outlined": false,
+      "type": "solid"
+    }
+  },
+  "map_icon_nav_voice": {
+    "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/map%20icons/map_icon_nav_voice.svg",
+    "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/map%20icons/map_icon_nav_voice.svg"
+  },
+  "map_icon_nav": {
+    "light": "https://raw.githubusercontent.com/bbt0/gztemp/master/map%20icons/map_icon_nav.svg",
+    "dark": "https://raw.githubusercontent.com/bbt0/gztemp/master/map%20icons/map_icon_nav.svg"
+  },
+  "map_icon_location" : {
+    "light" : "https://github.com/bbt0/gztemp/blob/master/map%20icons/location.png",
+    "dark" : "https://github.com/bbt0/gztemp/blob/master/map%20icons/location.png"
+  },
+  "background_color": {
+    "light": "#ffffff",
+    "dark": "#ffffff"
+  },
+  "nav_step_styles": {
+    "color_active": {
+      "light": "#00B140",
+      "dark": "#00B140"
+    },
+    "color_inactive": {
+      "light": "#4B4B4B",
+      "dark": "#4B4B4B"
+    },
+    "nav_step_text_style": {
+      "size": "default",
+      "color": {
+        "light": "#4B4B4B",
+        "dark": "#4B4B4B"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "background_color": {
+      "light": "#ffffff",
+      "dark": "#ffffff"
+    }
+  },
+  "nav_subtitle_second_to_last_step": {
+    "text_style": {
+      "size": "default",
+      "color": {
+        "light": "#ffffff",
+        "dark": "#ffffff"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "background_color": {
+      "light": "#00B140",
+      "dark": "#00B140"
+    }
+  },
+  "wayfinding_poi_info_styles": {
+    "title": {
+      "size": "large",
+      "color": {
+        "light": "#004278",
+        "dark": "#004278"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "other_items": {
+      "size": "default",
+      "color": {
+        "light": "#373737",
+        "dark": "#373737"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    }
+  }
+}
