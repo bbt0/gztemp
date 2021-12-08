@@ -1,0 +1,91 @@
+{
+  "title": "Filters",
+  "clear_filter": {
+    "value": "Clear Filters",
+    "style": {
+      "size": "default",
+      "weight": "normal",
+      "color": {
+        "dark": "#004278",
+        "light": "#004278"
+      },
+      "orientation": "start",
+      "lines": 1
+    },
+    "action": null
+  },
+  "apply_button": {
+    "text": {
+      "value": "Apply",
+      "style": {
+        "size": "default",
+        "weight": "normal",
+        "color": {
+          "dark": "#FFFFFF",
+          "light": "#FFFFFF"
+        },
+        "orientation": "center",
+        "lines": 1
+      }
+    },
+    "color": {
+      "dark": "#3399CC",
+      "light": "#3399CC"
+    },
+    "outlined": false,
+    "action": null
+  },
+  "filters": [
+    {
+      "type": "single_select",
+      "param": "order",
+      "header": {
+        "value": "Sort By",
+        "style": {
+          "size": "medium",
+          "weight": "normal",
+          "color": {
+            "dark": "#000000",
+            "light": "#000000"
+          },
+          "orientation": "start",
+          "lines": 1
+        }
+      },
+      "values": [
+        {
+          "display": "A-Z",
+          "value": "a_z"
+        },
+        {
+          "display": "Travel Distance",
+          "value": "distance"
+        }
+      ],
+      "accent_color": {
+        "light": "#3399CC",
+        "dark": "#3399CC"
+      },
+      "value_text_style_selected": {
+        "size": "default",
+        "weight": "normal",
+        "color": {
+          "dark": "#FFFFFF",
+          "light": "#FFFFFF"
+        },
+        "orientation": "start",
+        "lines": -1
+      },
+      "value_text_style_unselected": {
+        "size": "default",
+        "weight": "normal",
+        "color": {
+          "dark": "#000000",
+          "light": "#000000"
+        },
+        "orientation": "start",
+        "lines": -1
+      }
+    }
+  ]
+}
