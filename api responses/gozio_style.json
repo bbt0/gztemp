@@ -31,12 +31,12 @@
       "dark": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/wayfinding_available.png"
     },
     "travel_car": {
-      "light": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_icon_car.svg",
-      "dark": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_icon_car.svg"
+      "light": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_car.png",
+      "dark": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_car.png"
     },
     "travel_walk": {
-      "light": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_icon_walk.svg",
-      "dark": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_icon_walk.svg"
+      "light": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_walk.png",
+      "dark": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/travel_walk.png"
     },
     "hours": {
       "light": "https://github.com/bbt0/gztemp/raw/master/detail%20icons/hours.png",
