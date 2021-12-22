@@ -160,7 +160,7 @@
       {
         "text": "Guest Services",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_guest_services.png",
-        "regex": "^services|.*\\sservices|^help|.*\\shelp"
+        "regex": "ATM|Gift Shop|Pharmacy|Lounge"
       },
       {
         "text": "Amenities",
