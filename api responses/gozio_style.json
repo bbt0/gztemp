@@ -316,8 +316,11 @@
       },
       {
         "text": "Buildings",
+        "regex" : "^(?!.*(UTSW Medical Group)).*",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_buildings.png",
-        "matching_type" : "building"
+        "matching_type" : "building",
+        "hard_include_ids": [15918, 15919],
+        "hard_exclude_ids" : [15918]
       },
       {
         "text": "Clinics",
