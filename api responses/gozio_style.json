@@ -319,8 +319,8 @@
         "regex" : "^(?!.*(UTSW Medical Group)).*",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_buildings.png",
         "matching_type" : "building",
-        "hard_include_ids": [15918, 15919, 13234, 10007, 14557, 10013, 16541, 12509, 12491, 12489, 12483],
-        "hard_exclude_ids" : [15918, 12467, 10006, 12612, 13220, 12615, 12543, 12541, 14549, 12611]
+        "hard_include_ids": [10013, 12483, 12489, 12491, 12509, 14550, 14557, 15918, 15919, 16541],
+        "hard_exclude_ids" : [10006, 10007, 12467, 12539, 12541, 12543, 12611, 12612, 12615, 12616, 13220, 13234, 14549]
       },
       {
         "text": "Clinics",
