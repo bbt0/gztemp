@@ -312,13 +312,13 @@
       {
         "text": "Hospitals",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_hospitals.png",
-        "matching_site_type" : "Hospital"
+        "matching_site_types" : ["Hospital"]
       },
       {
         "text": "Buildings",
         "regex" : "^(?!.*(UTSW Medical Group)).*",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_buildings.png",
-        "matching_type" : "building",
+        "matching_types" : ["building"],
         "hard_include_ids": [12491, 14550, 14557, 15918, 15919, 16541],
         "hard_exclude_ids" : [10012, 10013, 10006, 10007, 12467, 12483, 12489, 12509, 12539, 12541, 12543, 12611, 12612, 12615, 12616, 13220, 13234, 14549]
       },
@@ -326,13 +326,13 @@
         "text": "Clinic",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_clinics.png",
         "regex" : ".*\\((Dallas|Fort Worth|Park Cities|Frisco|Las Colinas|Richardson\\/Plano)\\).*",
-        "matching_type" : "onsite"
+        "matching_types" : ["onsite"]
       },
       {
         "text": "Parking",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_parking.png",
         "regex": ".*(parking|garage).*",
-        "matching_type" : "building",
+        "matching_types" : ["building"],
         "hard_include_ids" : [16208]
       }
     ],
