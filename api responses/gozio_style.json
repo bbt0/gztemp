@@ -165,17 +165,17 @@
       {
         "text": "Amenities",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_amenities.png",
-        "regex": "^amenities|.*\\samenities"
+        "regex": ".*(ATM|gift shop|store|pharmacy|visitor lounge).*"
       },
       {
         "text": "Dining",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_dining.png",
-        "regex": "^dining|.*\\sdining|^cafeteria|.*\\scafeteria"
+        "regex": ".*(Dining|Cafe|Simply to Go|Fresh Market|Grab & Go|Food Court).*"
       },
       {
         "text": "Restrooms",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_restrooms.png",
-        "regex": "^bathroom|.*\\sbathroom|^restroom|.*\\srestroom"
+        "regex": ".*(restroom|bathroom).*"
       }
     ],
     "suggested_search_style": {
@@ -325,13 +325,15 @@
       {
         "text": "Clinic",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_clinics.png",
-        "regex" : ".%2A%5C%28%28Dallas%7CFort%20Worth%7CPark%20Cities%7CFrisco%7CLas%20Colinas%7CRichardson%5C%2FPlano%29%5C%29.%2A"
+        "regex" : ".*\\((Dallas|Fort Worth|Park Cities|Frisco|Las Colinas|Richardson\\/Plano)\\).*",
+        "matching_type" : "onsite"
       },
       {
         "text": "Parking",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_parking.png",
-        "regex": "^parking|.*\\sparking|^garage|.*\\sgarage",
-        "matching_type" : "site"
+        "regex": ".*(parking|garage).*",
+        "matching_type" : "building",
+        "hard_include_ids" : [16208]
       }
     ],
     "suggested_search_style": {
