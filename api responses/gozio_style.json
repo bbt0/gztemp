@@ -312,7 +312,8 @@
       {
         "text": "Hospitals",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_hospitals.png",
-        "matching_site_types" : ["Hospital"]
+        "hard_include_ids" : [10006],
+        "regex" : "asdfasdfadsfasdfasdfasdf2304892309482"
       },
       {
         "text": "Buildings",
