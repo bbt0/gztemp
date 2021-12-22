@@ -323,7 +323,7 @@
         "hard_exclude_ids" : [10012, 10013, 10006, 10007, 12467, 12483, 12489, 12509, 12539, 12541, 12543, 12611, 12612, 12615, 12616, 13220, 13234, 14549]
       },
       {
-        "text": "Clinics",
+        "text": "Clinic",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_clinics.png",
         "regex" : ".*\((Dallas|Fort Worth|Park Cities|Frisco|Las Colinas|Richardson\/Plano)\).*"
       },
