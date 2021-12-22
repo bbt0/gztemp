@@ -332,9 +332,7 @@
       {
         "text": "Parking",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_parking.png",
-        "regex": ".*(parking|garage).*",
-        "matching_types" : ["building"],
-        "hard_include_ids" : [16208]
+        "regex": ".*(parking|garage).*"
       }
     ],
     "suggested_search_style": {
