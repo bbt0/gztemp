@@ -325,7 +325,7 @@
       {
         "text": "Clinics",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_clinics.png",
-        "matching_type" : "building"
+        "regex" : ".*\((Dallas|Fort Worth|Park Cities|Frisco|Las Colinas|Richardson\/Plano)\).*"
       },
       {
         "text": "Parking",
