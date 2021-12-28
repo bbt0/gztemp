@@ -35,7 +35,6 @@ For the proposed API call GET `/gozio_wayfinding/assets`
 - ID in gozio_places.json = 10007
 This one actually doesn't have a floor id or poi, but it has a default floor ID that maps to another POI. That is `map_floor_id` 102, which is at Gozio place ID `12633`
 
-
 ---
 
 **5fac4c991b67cd496bbb055b-CUH-level1.pcap**
