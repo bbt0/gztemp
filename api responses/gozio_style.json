@@ -1,4 +1,14 @@
 {
+  "defaults": {
+    "default_site_lat": 32.8190133,
+    "default_site_lon": -96.8485262,
+    "default_site_id": 10006,
+    "default_region_id": 1,
+    "gozio_map_version": 4,
+    "default_radius": 800.0,
+    "has_ips": true,
+    "has_outdoor_ips": true
+  },
   "bottom_sheet_background": {
     "light": "#ffffff",
     "dark": "#ffffff"
@@ -63,44 +73,121 @@
       "Friday",
       "Saturday",
       "Sunday"
-    ]
-  },
-  "search_history": {
-    "title": {
-      "value": "There are no locations that match your search criteria",
+    ],
+    "gozio_branding": {
+      "value": "Powered by GOZIO Navigation",
       "style": {
-        "size": "large",
-        "weight": "semi_bold",
+        "size": "small",
+        "weight": "normal",
         "color": {
-          "light": "#004278",
-          "dark": "#004278"
+          "light": "#000000",
+          "dark": "#000000"
         },
-        "orientation": "start"
+        "orientation": "center"
+      }
+    }
+  },
+  "shared_styles": {
+    "suggested_search_style": {
+      "text_style": {
+        "size": "default",
+        "color": {
+          "light": "#000000",
+          "dark": "#000000"
+        },
+        "lines": -1,
+        "fixed_size": false,
+        "truncation": "none",
+        "auto_resize": false
+      },
+      "background_active": {
+        "light": "#004278",
+        "dark": "#004278"
+      },
+      "background_inactive": {
+        "light": "#F2F2F2",
+        "dark": "#F2F2F2"
+      },
+      "content_active": {
+        "light": "#ffffff",
+        "dark": "#ffffff"
+      },
+      "content_inactive": {
+        "light": "#474747",
+        "dark": "#474747"
       }
     },
-    "item_style": {
-      "size": "default",
-      "weight": "normal",
+    "bottom_sheet_background": {
+      "light": "#FFFFFF",
+      "dark": "#FFFFFF"
+    },
+    "bottom_sheet_header_text_style": {
+      "size": "large",
       "color": {
-        "light": "#4b4b4b",
-        "dark": "#4b4b4b"
+        "light": "#004278",
+        "dark": "#004278"
       },
-      "orientation": "center",
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "history_item_text_style": {
+      "size": "default",
+      "color": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "search_item_header_style": {
+      "size": "large",
+      "color": {
+        "light": "#004278",
+        "dark": "#004278"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "search_item_info_style": {
+      "size": "default",
+      "color": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "search_item_distance_style": {
+      "size": "default",
+      "color": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "detail_item_text_style": {
+      "size": "default",
+      "weight": "bold",
+      "color": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
       "lines": -1,
       "fixed_size": false,
       "truncation": "none",
       "auto_resize": false
     }
-  },
-  "defaults": {
-    "default_site_lat": 32.8190133,
-    "default_site_lon": -96.8485262,
-    "default_site_id": 10006,
-    "default_region_id": 1,
-    "gozio_map_version": 4,
-    "default_radius": 800.0,
-    "has_ips": true,
-    "has_outdoor_ips": true
   },
   "indoor_style": {
     "search": {
@@ -178,60 +265,6 @@
         "regex": ".*(restroom|bathroom).*"
       }
     ],
-    "suggested_search_style": {
-      "background_active": {
-        "light": "#004278",
-        "dark": "#004278"
-      },
-      "background_inactive": {
-        "light": "#F2F2F2",
-        "dark": "#F2F2F2"
-      },
-      "content_active": {
-        "light": "#ffffff",
-        "dark": "#ffffff"
-      },
-      "content_inactive": {
-        "light": "#474747",
-        "dark": "#474747"
-      }
-    },
-    "text_styles": {
-      "header_text": {
-        "size": "large",
-        "color": {
-          "light": "#004278",
-          "dark": "#004278"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "detail_text": {
-        "size": "default",
-        "weight": "bold",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "search_item_text": {
-        "size": "default",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      }
-    },
     "bottom_button": {
       "text": {
         "value": "Let's Go",
@@ -312,84 +345,58 @@
       {
         "text": "Hospitals",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_hospitals.png",
-        "matching_site_type" : "Hospital"
+        "matching_site_type": "Hospital"
       },
       {
         "text": "Buildings",
-        "regex" : "^(?!.*(UTSW Medical Group)).*",
+        "regex": "^(?!.*(UTSW Medical Group)).*",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_buildings.png",
-        "matching_type" : "building",
-        "hard_include_ids": [12491, 14550, 14557, 15918, 15919, 16541],
-        "hard_exclude_ids" : [10012, 10013, 10006, 10007, 12467, 12483, 12489, 12509, 12539, 12541, 12543, 12611, 12612, 12615, 12616, 13220, 13234, 14549]
+        "matching_type": "building",
+        "hard_include_ids": [
+          12491,
+          14550,
+          14557,
+          15918,
+          15919,
+          16541
+        ],
+        "hard_exclude_ids": [
+          10012,
+          10013,
+          10006,
+          10007,
+          12467,
+          12483,
+          12489,
+          12509,
+          12539,
+          12541,
+          12543,
+          12611,
+          12612,
+          12615,
+          12616,
+          13220,
+          13234,
+          14549
+        ]
       },
       {
         "text": "Clinic",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_clinics.png",
-        "regex" : ".*\\((Dallas|Fort Worth|Park Cities|Frisco|Las Colinas|Richardson\\/Plano)\\).*",
-        "matching_type" : "onsite"
+        "regex": ".*\\((Dallas|Fort Worth|Park Cities|Frisco|Las Colinas|Richardson\\/Plano)\\).*",
+        "matching_type": "onsite"
       },
       {
         "text": "Parking",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_parking.png",
         "regex": ".*(parking|garage).*",
-        "matching_type" : "building",
-        "hard_include_ids" : [16208]
+        "matching_type": "building",
+        "hard_include_ids": [
+          16208
+        ]
       }
     ],
-    "suggested_search_style": {
-      "background_active": {
-        "light": "#004278",
-        "dark": "#004278"
-      },
-      "background_inactive": {
-        "light": "#F2F2F2",
-        "dark": "#F2F2F2"
-      },
-      "content_active": {
-        "light": "#ffffff",
-        "dark": "#ffffff"
-      },
-      "content_inactive": {
-        "light": "#474747",
-        "dark": "#474747"
-      }
-    },
-    "text_styles": {
-      "header_text": {
-        "size": "large",
-        "weight": "bold",
-        "color": {
-          "light": "#004278",
-          "dark": "#004278"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "detail_text": {
-        "size": "default",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "search_item_text": {
-        "size": "default",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      }
-    },
     "bottom_button": {
       "text": {
         "value": "Let's Go",
