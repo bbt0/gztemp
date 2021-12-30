@@ -166,10 +166,10 @@
       "auto_resize": false
     },
     "search_item_distance_style": {
-      "size": "default",
+      "size": "small",
       "color": {
-        "light": "#000000",
-        "dark": "#000000"
+        "light": "#4B4B4B",
+        "dark": "#4B4B4B"
       },
       "lines": -1,
       "fixed_size": false,
@@ -178,10 +178,9 @@
     },
     "detail_item_text_style": {
       "size": "default",
-      "weight": "bold",
       "color": {
-        "light": "#000000",
-        "dark": "#000000"
+        "light": "#004278",
+        "dark": "#004278"
       },
       "lines": -1,
       "fixed_size": false,
