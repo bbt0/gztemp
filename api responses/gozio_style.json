@@ -98,6 +98,7 @@
     "default_site_id": 10006,
     "default_region_id": 1,
     "gozio_map_version": 4,
+    "default_zoom" : 15,
     "default_radius": 800.0,
     "has_ips": true,
     "has_outdoor_ips": true
@@ -323,7 +324,7 @@
         "hard_exclude_ids" : [10012, 10013, 10006, 10007, 12467, 12483, 12489, 12509, 12539, 12541, 12543, 12611, 12612, 12615, 12616, 13220, 13234, 14549]
       },
       {
-        "text": "Clinic",
+        "text": "Clinics",
         "icon_url": "https://raw.githubusercontent.com/bbt0/gztemp/master/assets/ic_clinics.png",
         "regex" : ".*\\((Dallas|Fort Worth|Park Cities|Frisco|Las Colinas|Richardson\\/Plano)\\).*",
         "matching_type" : "onsite"
