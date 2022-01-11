@@ -103,6 +103,98 @@
     "has_ips": true,
     "has_outdoor_ips": true
   },
+  "shared_styles" : {
+    "suggested_search_style" : {
+      "background_active": {
+        "light": "#004278",
+        "dark": "#004278"
+      },
+      "background_inactive": {
+        "light": "#F2F2F2",
+        "dark": "#F2F2F2"
+      },
+      "content_active": {
+        "light": "#ffffff",
+        "dark": "#ffffff"
+      },
+      "content_inactive": {
+        "light": "#474747",
+        "dark": "#474747"
+      }
+    },
+    "bottom_sheet_background" : {
+      "light": "#ffffff",
+      "dark": "#ffffff"
+    },
+    "bottom_sheet_header_text_style" : {
+      "size": "large",
+      "color": {
+        "light": "#004278",
+        "dark": "#004278"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "history_item_text_style" : {
+      "size": "default",
+      "color": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "search_item_header_style" : {
+      "size": "medium",
+      "color": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "search_item_info_style" : {
+      "size": "default",
+      "color": {
+        "light": "#373737",
+        "dark": "#373737"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "search_item_distance_style" : {
+      "size": "default",
+      "color": {
+        "light": "#4b4b4b",
+        "dark": "#4b4b4b"
+      },
+      "lines": -1,
+      "weight" : "light",
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    },
+    "detail_item_text_style" : {
+      "size": "default",
+      "weight": "bold",
+      "color": {
+        "light": "#000000",
+        "dark": "#000000"
+      },
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false
+    }
+  },
   "indoor_style": {
     "search": {
       "type": "text_search",

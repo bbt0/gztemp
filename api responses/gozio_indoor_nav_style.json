@@ -84,6 +84,16 @@
   },
   "exit_confirmation": {
     "header": {
+      "value": "Exit Wayfinding",
+      "style": {
+        "size": "medium",
+        "weight": "normal",
+        "color": {
+          "light": "#004278",
+          "dark": "#004278"
+        },
+        "orientation": "center"
+      }
     },
     "positive_button": {
       "text": {
