@@ -153,7 +153,6 @@
     },
     "detail_item_text_style" : {
       "size": "default",
-      "weight": "bold",
       "color": {
         "light": "#000000",
         "dark": "#000000"
