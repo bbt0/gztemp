@@ -1,7 +1,14 @@
 {
-  "bottom_sheet_background": {
-    "light": "#ffffff",
-    "dark": "#ffffff"
+  "defaults": {
+    "default_site_lat": 32.8190133,
+    "default_site_lon": -96.8485262,
+    "default_site_id": 10006,
+    "default_region_id": 1,
+    "gozio_map_version": 4,
+    "default_zoom" : 15,
+    "default_radius": 800.0,
+    "has_ips": true,
+    "has_outdoor_ips": true
   },
   "map_icons": {
     "floors": {
@@ -65,44 +72,6 @@
       "Sunday"
     ]
   },
-  "search_history": {
-    "title": {
-      "value": "There are no locations that match your search criteria",
-      "style": {
-        "size": "large",
-        "weight": "semi_bold",
-        "color": {
-          "light": "#004278",
-          "dark": "#004278"
-        },
-        "orientation": "start"
-      }
-    },
-    "item_style": {
-      "size": "default",
-      "weight": "normal",
-      "color": {
-        "light": "#4b4b4b",
-        "dark": "#4b4b4b"
-      },
-      "orientation": "center",
-      "lines": -1,
-      "fixed_size": false,
-      "truncation": "none",
-      "auto_resize": false
-    }
-  },
-  "defaults": {
-    "default_site_lat": 32.8190133,
-    "default_site_lon": -96.8485262,
-    "default_site_id": 10006,
-    "default_region_id": 1,
-    "gozio_map_version": 4,
-    "default_zoom" : 15,
-    "default_radius": 800.0,
-    "has_ips": true,
-    "has_outdoor_ips": true
-  },
   "shared_styles" : {
     "suggested_search_style" : {
       "background_active": {
@@ -140,8 +109,8 @@
     "history_item_text_style" : {
       "size": "default",
       "color": {
-        "light": "#000000",
-        "dark": "#000000"
+        "light": "#4b4b4b",
+        "dark": "#4b4b4b"
       },
       "lines": -1,
       "fixed_size": false,
@@ -271,60 +240,6 @@
         "regex": ".*(restroom|bathroom).*"
       }
     ],
-    "suggested_search_style": {
-      "background_active": {
-        "light": "#004278",
-        "dark": "#004278"
-      },
-      "background_inactive": {
-        "light": "#F2F2F2",
-        "dark": "#F2F2F2"
-      },
-      "content_active": {
-        "light": "#ffffff",
-        "dark": "#ffffff"
-      },
-      "content_inactive": {
-        "light": "#474747",
-        "dark": "#474747"
-      }
-    },
-    "text_styles": {
-      "header_text": {
-        "size": "large",
-        "color": {
-          "light": "#004278",
-          "dark": "#004278"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "detail_text": {
-        "size": "default",
-        "weight": "bold",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "search_item_text": {
-        "size": "default",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      }
-    },
     "bottom_button": {
       "text": {
         "value": "Let's Go",
@@ -429,60 +344,6 @@
         "hard_include_ids" : [16208]
       }
     ],
-    "suggested_search_style": {
-      "background_active": {
-        "light": "#004278",
-        "dark": "#004278"
-      },
-      "background_inactive": {
-        "light": "#F2F2F2",
-        "dark": "#F2F2F2"
-      },
-      "content_active": {
-        "light": "#ffffff",
-        "dark": "#ffffff"
-      },
-      "content_inactive": {
-        "light": "#474747",
-        "dark": "#474747"
-      }
-    },
-    "text_styles": {
-      "header_text": {
-        "size": "large",
-        "weight": "bold",
-        "color": {
-          "light": "#004278",
-          "dark": "#004278"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "detail_text": {
-        "size": "default",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      },
-      "search_item_text": {
-        "size": "default",
-        "color": {
-          "light": "#000000",
-          "dark": "#000000"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false
-      }
-    },
     "bottom_button": {
       "text": {
         "value": "Let's Go",
