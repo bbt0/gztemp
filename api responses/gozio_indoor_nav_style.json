@@ -192,7 +192,6 @@
         "fixed_size": false,
         "truncation": "none",
         "auto_resize": false,
-        "orientation": "center",
       }
     },
     "background_color": {
