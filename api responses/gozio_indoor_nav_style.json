@@ -179,24 +179,20 @@
       "dark": "#ffffff"
     }
   },
-  "nav_subtitle_second_to_last_step": {
-    "text": {
-      "value": "You are approaching your destination",
-      "style" : {
-        "size": "default",
-        "color": {
-          "light": "#ffffff",
-          "dark": "#ffffff"
-        },
-        "lines": -1,
-        "fixed_size": false,
-        "truncation": "none",
-        "auto_resize": false,
-      }
-    },
-    "background_color": {
-      "light": "#00B140",
-      "dark": "#00B140"
+  "nav_subtitle_second_to_last_step" : {
+    "value": "You are approaching your destination",
+    "style": {
+      "size": "default",
+      "weight": "normal",
+      "color": {
+        "light": "#ffffff",
+        "dark": "#ffffff"
+      },
+      "orientation": "center",
+      "lines": -1,
+      "fixed_size": false,
+      "truncation": "none",
+      "auto_resize": false,
     }
   },
   "wayfinding_poi_info_styles": {
