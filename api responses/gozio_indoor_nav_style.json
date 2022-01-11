@@ -180,16 +180,20 @@
     }
   },
   "nav_subtitle_second_to_last_step": {
-    "text_style": {
-      "size": "default",
-      "color": {
-        "light": "#ffffff",
-        "dark": "#ffffff"
-      },
-      "lines": -1,
-      "fixed_size": false,
-      "truncation": "none",
-      "auto_resize": false
+    "text": {
+      "value": "You are approaching your destination",
+      "style" : {
+        "size": "default",
+        "color": {
+          "light": "#ffffff",
+          "dark": "#ffffff"
+        },
+        "lines": -1,
+        "fixed_size": false,
+        "truncation": "none",
+        "auto_resize": false,
+        "orientation": "center",
+      }
     },
     "background_color": {
       "light": "#00B140",
