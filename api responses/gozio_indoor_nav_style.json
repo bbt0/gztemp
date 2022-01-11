@@ -192,7 +192,7 @@
       "lines": -1,
       "fixed_size": false,
       "truncation": "none",
-      "auto_resize": false,
+      "auto_resize": false
     }
   },
   "wayfinding_poi_info_styles": {
