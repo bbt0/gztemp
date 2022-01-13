@@ -81,11 +81,6 @@
                "dark":"#000000"
             },
             "orientation":"center"
-         },
-         "action":{
-            "type":"web",
-            "url":"https://google.com",
-            "launch_type":"internal"
          }
       }
    },
