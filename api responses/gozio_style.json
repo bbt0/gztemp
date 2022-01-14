@@ -2,7 +2,7 @@
    "defaults":{
       "default_site_lat":32.8190133,
       "default_site_lon":-96.8485262,
-      "default_site_id":10006,
+      "default_site_id":10005,
       "default_region_id":1,
       "gozio_map_version":4,
       "default_zoom":15,
