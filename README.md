@@ -49,3 +49,9 @@ This works when calling `gzmLocationService.addSiteRegion(siteId: 1, hasIps: tru
 
 **CUH-level1-2.pcap**
 ??? Unsure
+
+**cuh-floor-10-to-main-dining.pcap** -- AKA the elevator pcap
+- siteID = 1
+- buildingID = 10
+- floor = 10
+- poiKey = "pv_uh1_510"
