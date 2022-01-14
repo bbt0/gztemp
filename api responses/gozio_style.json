@@ -81,6 +81,11 @@
                "dark":"#000000"
             },
             "orientation":"center"
+         },
+         "action":{
+            "type":"web",
+            "url":"https://uhealth.goziohealth.com/microsites/legal/eula.html",
+            "launch_type":"internal"
          }
       }
    },
