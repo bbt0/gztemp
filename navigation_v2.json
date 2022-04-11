@@ -315,301 +315,301 @@
                     "index": 1000,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Localizándote"
+                    "text": "Localizándolo"
                 },
                 {
                     "index": 1001,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Comenzar navegación"
+                    "text": "Inicio de la Navegación"
                 },
                 {
                     "index": 1002,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Ha llegado"
+                    "text": "Ha Llegado"
                 },
                 {
                     "index": 1003,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Calculando ruta"
+                    "text": "Calculando la Ruta"
                 },
                 {
                     "index": 1004,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Imposible calcular ruta"
+                    "text": "No se puede Calcular la Ruta"
                 },
                 {
                     "index": 1005,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Advertencia, fuera de ruta"
+                    "text": "Aviso de Fuera de Ruta"
                 },
                 {
                     "index": 1006,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Fuera de ruta, recalculando"
+                    "text": "Fuera de Ruta, Calculando nueva ruta"
                 },
                 {
                     "index": 1010,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Recomenzar navegación"
+                    "text": "Reiniciar la Navegación"
                 },
                 {
                     "index": 1012,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Recalculando"
+                    "text": "Calcular nueva ruta"
                 },
                 {
                     "index": 1013,
                     "icon": 11,
                     "vars": 0,
-                    "text": "Vas por el camino equivocado."
+                    "text": "Se está dirigiendo en la dirección equivocada."
                 },
                 {
                     "index": 1014,
                     "icon": 11,
                     "vars": 0,
-                    "text": "Vas por el camino equivocado, recalculando."
+                    "text": "Se ha equivocado de ruta. Calcular nueva ruta."
                 },
                 {
                     "index": 1,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Ir al comienzo de la ruta"
+                    "text": "Diríjase al Inicio de la Ruta"
                 },
                 {
                     "index": 2,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Ir al comienzo de la ruta"
+                    "text": "Diríjase al Inicio de la Ruta"
                 },
                 {
                     "index": 3,
                     "icon": 2,
                     "vars": 0,
-                    "text": "Ir a la entrada mas cercana"
+                    "text": "Diríjase a la Entrada más Cercana"
                 },
                 {
                     "index": 4,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Ir a la entrada mas cercana"
+                    "text": "Diríjase a la Entrada más Cercana"
                 },
                 {
                     "index": 5,
                     "icon": 9,
                     "vars": 1,
-                    "text": "Tome el ascensor al nivel ${NEXT_ELEV}"
+                    "text": "Tome el Ascensor hasta el ${NEXT_ELEV}"
                 },
                 {
                     "index": 19,
                     "icon": 9,
                     "vars": 1,
-                    "text": "Baje por el ascensor al nivel ${NEXT_ELEV}"
+                    "text": "Baje por el Ascensor hasta el ${NEXT_ELEV}"
                 },
                 {
                     "index": 20,
                     "icon": 9,
                     "vars": 1,
-                    "text": "Suba por el ascensor al nivel ${NEXT_ELEV}"
+                    "text": "Suba por el Ascensor hasta el ${NEXT_ELEV}"
                 },
                 {
                     "index": 6,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Salga del ascensor"
+                    "text": "Salir del Ascensor"
                 },
                 {
                     "index": 7,
                     "icon": 10,
                     "vars": 2,
-                    "text": "Tome las escaleras al nivel ${NEXT_STAIRS}"
+                    "text": "Tome las Escaleras hasta el ${NEXT_STAIRS}"
                 },
                 {
                     "index": 21,
                     "icon": 10,
                     "vars": 2,
-                    "text": "Baje por las escaleras al nivel ${NEXT_STAIRS}"
+                    "text": "Baje por las Escaleras hasta el ${NEXT_STAIRS}"
                 },
                 {
                     "index": 22,
                     "icon": 10,
                     "vars": 2,
-                    "text": "Suba por las escaleras al nivel ${NEXT_STAIRS}"
+                    "text": "Suba por las Escaleras hasta el ${NEXT_STAIRS}"
                 },
                 {
                     "index": 8,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Salga de la escalera"
+                    "text": "Salga de la Escalera"
                 },
                 {
                     "index": 9,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando"
+                    "text": "Continúe Caminando"
                 },
                 {
                     "index": 10,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando"
+                    "text": "Continúe Caminando"
                 },
                 {
                     "index": 11,
                     "icon": 8,
                     "vars": 4,
-                    "text": "Continuar hacia ${NEXT_FLOOR}"
+                    "text": "Continúe hasta el ${NEXT_FLOOR}"
                 },
                 {
                     "index": 12,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando"
+                    "text": "Continúe Caminando"
                 },
                 {
                     "index": 13,
                     "icon": 4,
                     "vars": 0,
-                    "text": "Giro a la Izquierda delante"
+                    "text": "Gire a la Izquierda Adelante"
                 },
                 {
                     "index": 14,
                     "icon": 5,
                     "vars": 0,
-                    "text": "Continuar caminando"
+                    "text": "Continúe Caminando"
                 },
                 {
                     "index": 15,
                     "icon": 6,
                     "vars": 0,
-                    "text": "Giro a la Derecha delante"
+                    "text": "Gire a la Derecha Adelante"
                 },
                 {
                     "index": 16,
                     "icon": 7,
                     "vars": 0,
-                    "text": "Continuar caminando"
+                    "text": "Continúe Caminando"
                 },
                 {
                     "index": 17,
                     "icon": 11,
                     "vars": 0,
-                    "text": "De la vuelta"
+                    "text": "De la Vuelta"
                 },
                 {
                     "index": 23,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar hacia su lugar de estacionamiento"
+                    "text": "Continúe hasta el Puesto de Estacionamiento"
                 },
                 {
                     "index": 24,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Ha llegado hacia su lugar de estacionamiento"
+                    "text": "Ha llegado a su Puesto de Estacionamiento"
                 },
                 {
                     "index": 18,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Ha llegado"
+                    "text": "Ha Llegado"
                 },
                 {
                     "index": 25,
                     "icon": 2,
                     "vars": 0,
-                    "text": "Ir a la entrada mas cercana"
+                    "text": "Diríjase a la Entrada más Cercana"
                 },
                 {
                     "index": 26,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Continue hacia el nivel del estacionamiento"
+                    "text": "Continúe al Nivel de Estacionamiento"
                 },
                 {
                     "index": 27,
                     "icon": 1,
                     "vars": 0,
-                    "text": "Has llegado a tu lugar de estacionamiento"
+                    "text": "Ha Llegado al Nivel de Estacionamiento"
                 },
                 {
                     "index": 28,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando afuera"
+                    "text": "Continúe Caminando Hacia Fuera"
                 },
                 {
                     "index": 29,
                     "icon": 8,
                     "vars": 8,
-                    "text": "Continuar caminando hacia ${NEXT_BLDG}"
+                    "text": "Continúe Caminando Hacia el ${NEXT_BLDG}"
                 },
                 {
                     "index": 30,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando hacia el destino"
+                    "text": "Continúe Caminando Hacia su Destino"
                 },
                 {
                     "index": 31,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando por el área de estacionamiento"
+                    "text": "Continúe Caminando por el área de estacionamiento"
                 },
                 {
                     "index": 32,
                     "icon": 12,
                     "vars": 64,
-                    "text": "Tome la escalera mecánica al nivel ${NEXT_ESCALATOR}"
+                    "text": "Tome la Escalera Mecánica hasta el ${NEXT_ESCALATOR}"
                 },
                 {
                     "index": 33,
                     "icon": 12,
                     "vars": 64,
-                    "text": "Baje por la escalera mecánica al nivel ${NEXT_ESCALATOR}"
+                    "text": "Baje por la Escalera Mecánica hasta el ${NEXT_ESCALATOR}"
                 },
                 {
                     "index": 34,
                     "icon": 12,
                     "vars": 64,
-                    "text": "Suba por la escalera mecánica al nivel ${NEXT_ESCALATOR}"
+                    "text": "Suba por la Escalera Mecánica hasta el ${NEXT_ESCALATOR}"
                 },
                 {
                     "index": 35,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando hacia el destino"
+                    "text": "Continúe Caminando Hacia su Destino"
                 },
                 {
                     "index": 36,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando hacia el destino"
+                    "text": "Continúe Caminando Hacia su Destino"
                 },
                 {
                     "index": 37,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando hacia el destino"
+                    "text": "Continúe Caminando Hacia su Destino"
                 },
                 {
                     "index": 38,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando hacia el destino"
+                    "text": "Continúe Caminando Hacia su Destino"
                 },
                 {
                     "index": 39,
                     "icon": 8,
                     "vars": 0,
-                    "text": "Continuar caminando hacia el destino"
+                    "text": "Continúe Caminando Hacia su Destino"
                 }
             ]
         }

@@ -1,23 +1,23 @@
 {
   "assets": {
-    "last_updated": 300,
+    "last_updated": 3649701302000,
     "source": "https://github.com/bbt0/gztemp/blob/master/assets.zip?raw=true"
   },
   "gozio_data": {
-    "last_updated": 900,
+    "last_updated": 3649701302000,
     "source": "https://github.com/bbt0/gztemp/blob/master/gozio_data.zip?raw=true"
   },
   "navigation": {
-    "last_updated": 200,
+    "last_updated": 3649701302000,
     "navigation": "https://github.com/bbt0/gztemp/blob/master/navigation_v2.json?raw=true",
     "navigation_voice": "https://github.com/bbt0/gztemp/blob/master/navigation_voice_v2.json?raw=true"
   },
   "places": {
-    "last_updated": 200,
+    "last_updated": 3649701302000,
     "source": "https://github.com/bbt0/gztemp/blob/master/gozio_places.json?raw=true"
   },
   "place_tags" : {
-    "last_updated": 200,
+    "last_updated": 3649701302000,
     "source": "https://github.com/bbt0/gztemp/blob/master/search_tags.json?raw=true"
   }
 }
